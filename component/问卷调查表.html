@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>question</title>
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <meta name="author" content=""/>
+    <link rel="shortcut icon" href="">
+    <script src="http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+    <link href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<style type="text/css">
+    body {
+        background-color: #fff;
+        margin: 0;
+        padding: 0;
+        /*padding: 30px 40px;*/
+        /*text-align: center;*/
+        font-family: OpenSans-Light, PingFang SC, Hiragino Sans GB, Microsoft Yahei, Microsoft Jhenghei, sans-serif;
+    }
+
+    #indicator {
+        position: absolute;
+        left: 60px;
+        bottom: 120px;
+        text-align: left;
+        color: #000;
+        font-size: 14px;
+    }
+
+    #indicator > div {
+        margin-top: 4px;
+    }
+
+    #indicator span {
+        display: inline-block;
+        width: 30px;
+        height: 14px;
+        position: relative;
+        top: 2px;
+        margin-right: 8px;
+    }
+
+    .links line {
+        stroke: #cccccc;
+        stroke-width: 4;
+        stroke-opactity: 1;
+    }
+
+    .links line.inactive {
+        /*display: none !important;*/
+        stroke-opacity: 0.2;
+    }
+
+    .nodes circle {
+        stroke: #EEA083;
+        stroke-width: 3px;
+    }
+
+    .nodes circle:hover {
+        cursor: pointer;
+        stroke: #ff9966;
+        stroke-width: 3px;
+    <!-- r: 25;
+    -->
+    }
+
+    .nodes circle.inactive {
+        /*display: none !important;*/
+        stroke-width: 0px;
+        opacity: 0.2;
+
+    }
+
+    .texts text {
+        display: none;
+    }
+
+    .texts text:hover {
+        cursor: pointer;
+    }
+
+    .texts text.inactive {
+        display: none !important;
+    }
+
+
+    #mode {
+        position: absolute;
+        top: 8px;
+        right: 300px;
+    }
+
+    #mode span {
+        display: inline-block;
+        border: 1px solid #cccccc;
+        color: #000;
+        padding: 6px 10px;
+        border-radius: 4px;
+        font-size: 14px;
+        transition: color, background-color .3s;
+        -o-transition: color, background-color .3s;
+        -ms-transition: color, background-color .3s;
+        -moz-transition: color, background-color .3s;
+        -webkit-transition: color, background-color .3s;
+    }
+
+    #mode span.active, #mode span:hover {
+        background-color: #cccccc;
+        color: #333;
+        cursor: pointer;
+    }
+
+
+    #info {
+        position: absolute;
+        top: 100px;
+        right: 50px;
+        text-align: right;
+        width: 270px;
+    }
+
+
+    #info p {
+        color: #000;
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+
+    #info p span {
+        color: #888;
+        margin-right: 10px;
+    }
+
+    #info h4 {
+        color: #fff;
+    }
+
+    /*#title_wy{*/
+    /*	float:left*/
+    /*}*/
+
+
+    #search input {
+        position: absolute;
+        top: 8px;
+        right: 50px;
+        color: #000;
+        border: none;
+        outline: none;
+        box-shadow: none;
+        width: 400px;
+        background-color: #ccc;
+    }
+
+    /*#svg2 g.row:hover {*/
+    /*    stroke-width: 1px;*/
+    /*    stroke: #fff;*/
+    /*}*/
+
+</style>
+<body>
+
+<!-- 绘制标题样式 -->
+<div style="width:1920px;height: 50px;background-color: #272b30">
+
+<div id="table1" style="width:800px;height: 650px;position: absolute;top: 190px;left: 300px;"></div>
+
+
+<!--<div id="treeMap" style="width: 900px;height:600px;position: absolute;top: 900px;left: 20px;padding-bottom: 10px"></div>-->
+
+</body>
+
+<!-- 增加D3元素库 -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.2.2/dist/echarts.js"></script>
+<!-- 补充JS代码 -->
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        var myChart = echarts.init(document.getElementById('table1'));
+        var option = {
+            color: ["#86BAD2"],
+            xAxis: {
+                type: 'category',
+                data: ['Question 1','Question 2','Question 3','Question 4','Question 5','Question 6'],
+                axisLine: {
+                    show: true
+                },
+                splitArea: {
+                    show: false
+                },
+                axisTick: {
+                    alignWithLabel: true
+                }
+            },
+            yAxis: {
+                type: 'value',
+                position: 'left',
+                axisLine: {
+                    show: true,
+                },
+                splitLine: {
+                    show: false
+                },
+                axisTick: {
+                    show: true
+                },
+            },
+            series: [
+                {
+                    data: [6.5, 5.8, 6.2, 6.7,5.6,6],
+                    type: 'bar'
+                }
+            ]
+        };
+        myChart.setOption(option);
+
+
+    })
+    ;
+</script>
+</html>

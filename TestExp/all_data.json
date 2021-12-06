@@ -1,0 +1,3275 @@
+{
+  "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598415",
+    "FirstPage": 211.0,
+    "LastPage": 220.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Quan Li",
+      "Peng Xu",
+      "Yeukyin Chan",
+      "Yun Wang 0012",
+      "Zhipeng Wang",
+      "Huamin Qu",
+      "Xiaojuan Ma"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "NetEase, Inc.",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "China Academy of Art",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology"
+    ],
+    "AuthorKeywords": [
+      "Game play data visualization",
+      "visual knowledge discovery",
+      "visual knowledge representation",
+      "and game reconstruction"
+    ],
+    "PubsCited": 41.0
+  },
+  "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598416",
+    "FirstPage": 11.0,
+    "LastPage": 20.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Shamal Al-Dohuki",
+      "Yingyu Wu",
+      "Farah Kamw",
+      "Jing Yang",
+      "Xin Li",
+      "Ye Zhao",
+      "Xinyue Ye",
+      "Wei Chen 0001",
+      "Chao Ma",
+      "Fei Wang 0016"
+    ],
+    "AuthorAffiliation": [
+      "Kent State University",
+      "Kent State University",
+      "Kent State University",
+      "UNC Charlotte",
+      "China Petroleum University",
+      "Kent State University",
+      "Kent State University",
+      "Zhejiang University",
+      "Kent State University",
+      "Zhejiang University"
+    ],
+    "AuthorKeywords": [
+      "Taxi Trajectories",
+      "Taxi Document",
+      "Textualization",
+      "Name Query",
+      "Semantic Interaction",
+      "Text Search Engine"
+    ],
+    "PubsCited": 44.0
+  },
+  "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598432",
+    "FirstPage": 1.0,
+    "LastPage": 10.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Dongyu Liu",
+      "Di Weng",
+      "Yuhong Li",
+      "Jie Bao 0003",
+      "Yu Zheng 0004",
+      "Huamin Qu",
+      "Yingcai Wu"
+    ],
+    "AuthorAffiliation": [
+      "Zhejiang UniversityHong Kong University of Science and Technology",
+      "State Key Lab of CAD & CGZhejiang University",
+      "University of Macau",
+      "Microsoft Research, Beijing, China",
+      "Microsoft Research, Beijing, China",
+      "Hong Kong University of Science and Technology",
+      "State Key Lab of CAD & CGZhejiang University"
+    ],
+    "AuthorKeywords": [
+      "optimal billboard locations",
+      "taxi trajectory",
+      "visual analytics",
+      "comparative analysis"
+    ],
+    "PubsCited": 51.0
+  },
+  "Visual Analysis of MOOC Forums with iForum": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598444",
+    "FirstPage": 201.0,
+    "LastPage": 210.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Siwei Fu",
+      "Jian Zhao 0010",
+      "Weiwei Cui",
+      "Huamin Qu"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "Autodesk Research",
+      "Microsoft Research",
+      "Hong Kong University of Science and Technology"
+    ],
+    "AuthorKeywords": [
+      "Discussion forum",
+      "MOOC",
+      "temporal visualization",
+      "visual analytics"
+    ],
+    "PubsCited": 40.0
+  },
+  "TopicLens: Efficient Multi-Level Visual Topic Exploration of Large-Scale Document Collections": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598445",
+    "FirstPage": 151.0,
+    "LastPage": 160.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Minjeong Kim",
+      "Kyeongpil Kang",
+      "Deok Gun Park 0001",
+      "Jaegul Choo",
+      "Niklas Elmqvist"
+    ],
+    "AuthorAffiliation": [
+      "Korea University",
+      "Korea University",
+      "University of Maryland, College Park, MD, USA",
+      "Korea University",
+      "University of Maryland, College Park, MD, USA"
+    ],
+    "AuthorKeywords": [
+      "topic modeling",
+      "nonnegative matrix factorization",
+      "t-distributed stochastic neighbor embedding",
+      "magic lens",
+      "text analytics"
+    ],
+    "PubsCited": 51.0
+  },
+  "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598446",
+    "FirstPage": 221.0,
+    "LastPage": 230.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Bum Chul Kwon",
+      "Hannah Kim",
+      "Emily Wall",
+      "Jaegul Choo",
+      "Haesun Park",
+      "Alex Endert"
+    ],
+    "AuthorAffiliation": [
+      "IBM T.J. Watson Research Center, Yorktown Heights, NY, USA",
+      "Georgia Institute of Technology, Atlanta, GA, USA",
+      "Georgia Institute of Technology, Atlanta, GA, USA",
+      "Korea University, Seoul, South Korea",
+      "Georgia Institute of Technology, Atlanta, GA, USA",
+      "Georgia Institute of Technology, Atlanta, GA, USA"
+    ],
+    "AuthorKeywords": [
+      "axis mapping",
+      "interactive model steering",
+      "sketch",
+      "axis visualization",
+      "human-centered visual analytics"
+    ],
+    "PubsCited": 54.0
+  },
+  "TextTile: An Interactive Visualization Tool for Seamless Exploratory Analysis of Structured Data and Unstructured Text": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598447",
+    "FirstPage": 161.0,
+    "LastPage": 170.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Cristian Felix",
+      "Anshul Vikram Pandey",
+      "Enrico Bertini"
+    ],
+    "AuthorAffiliation": [
+      "New York University",
+      "New York University",
+      "New York University"
+    ],
+    "AuthorKeywords": [
+      "Exploratory Text Analysis",
+      "Knowledge Discovery",
+      "Text Visualization"
+    ],
+    "PubsCited": 43.0
+  },
+  "Hairy Slices: Evaluating the Perceptual Effectiveness of Cutting Plane Glyphs for 3D Vector Fields": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598448",
+    "FirstPage": 990.0,
+    "LastPage": 999.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Andrew H. Stevens",
+      "Thomas Butkiewicz",
+      "Colin Ware"
+    ],
+    "AuthorAffiliation": [
+      "The Center for Coastal and Ocean MappingThe University of New Hampshire",
+      "The Center for Coastal and Ocean MappingThe University of New Hampshire",
+      "The Center for Coastal and Ocean MappingThe University of New Hampshire"
+    ],
+    "AuthorKeywords": [
+      "Flow visualization",
+      "3D vector fields",
+      "Cutting planes",
+      "Glyphs",
+      "Perception",
+      "Evaluation",
+      "Human factors"
+    ],
+    "PubsCited": 47.0
+  },
+  "Toward Theoretical Techniques for Measuring the Use of Human Effort in Visual Analytic Systems": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598460",
+    "FirstPage": 121.0,
+    "LastPage": 130.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "R. Jordan Crouser",
+      "Lyndsey Franklin",
+      "Alex Endert",
+      "Kristin A. Cook"
+    ],
+    "AuthorAffiliation": [
+      "Smith College",
+      "Smith College",
+      "Smith College",
+      "Smith College"
+    ],
+    "AuthorKeywords": [
+      "Theoretical models",
+      "human oracle",
+      "visual analytics",
+      "mixed initiative systems",
+      "semantic interaction",
+      "sensemaking"
+    ],
+    "PubsCited": 87.0
+  },
+  "AnaFe: Visual Analytics of Image-derived Temporal Features Focusing on the Spleen": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598463",
+    "FirstPage": 171.0,
+    "LastPage": 180.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Ievgeniia Gutenko",
+      "Konstantin Dmitriev",
+      "Arie E. Kaufman",
+      "Matthew A. Barish"
+    ],
+    "AuthorAffiliation": [
+      "Computer Science Department, Stony Brook University, NY",
+      "Computer Science Department, Stony Brook University, NY",
+      "Computer Science Department, Stony Brook University, NY",
+      "Computer Science Department, Stony Brook University, NY"
+    ],
+    "AuthorKeywords": [
+      "Visual Knowledge Discovery",
+      "Temporal Feature Analysis",
+      "Radiomics",
+      "Spleen",
+      "Abdominal Imaging"
+    ],
+    "PubsCited": 48.0
+  },
+  "NameClarifier: A Visual Analytics System for Author Name Disambiguation": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598465",
+    "FirstPage": 141.0,
+    "LastPage": 150.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Qiaomu Shen",
+      "Tongshuang Wu",
+      "Haiyan Yang",
+      "Yanhong Wu",
+      "Huamin Qu",
+      "Weiwei Cui"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Microsoft Research"
+    ],
+    "AuthorKeywords": [
+      "Name disambiguation",
+      "analytical reasoning"
+    ],
+    "PubsCited": 41.0
+  },
+  "Visualizing Dimension Coverage to Support Exploratory Analysis": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598466",
+    "FirstPage": 21.0,
+    "LastPage": 30.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Ali Sarvghad",
+      "Melanie Tory",
+      "Narges Mahyar"
+    ],
+    "AuthorAffiliation": [
+      "University of Victoria",
+      "Tableau Research",
+      "University of British Columbia"
+    ],
+    "AuthorKeywords": [
+      "Dimension coverage",
+      "Tabular data",
+      "History",
+      "Empirical laboratory study",
+      "Exploratory data analysis",
+      "Scented widgets"
+    ],
+    "PubsCited": 33.0
+  },
+  "Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598467",
+    "FirstPage": 31.0,
+    "LastPage": 40.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Michael Behrisch 0001",
+      "Benjamin Bach",
+      "Michael Blumenschein",
+      "Michael Delz",
+      "Laura von Rüden",
+      "Jean-Daniel Fekete",
+      "Tobias Schreck"
+    ],
+    "AuthorAffiliation": [
+      "University of Konstanz, Germany",
+      "Microsoft Research-Inria Joint Centre, Saclay, France",
+      "University of Konstanz, Germany",
+      "University of Konstanz, Germany",
+      "Capgemini, RWTH Aachen University",
+      "Inria, Saclay, France",
+      "Graz University of Technology, Austria"
+    ],
+    "AuthorKeywords": [
+      "Matrix Visualization",
+      "Visual Quality Measures",
+      "Quality Metrics",
+      "Feature Detection/Selection",
+      "Relational Data"
+    ],
+    "PubsCited": 49.0
+  },
+  "Characterizing Guidance in Visual Analytics": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598468",
+    "FirstPage": 111.0,
+    "LastPage": 120.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Davide Ceneda",
+      "Theresia Gschwandtner",
+      "Thorsten May",
+      "Silvia Miksch",
+      "Hans-Jörg Schulz",
+      "Marc Streit",
+      "Christian Tominski"
+    ],
+    "AuthorAffiliation": [
+      "Vienna University of Technology, Austria",
+      "Vienna University of Technology, Austria",
+      "Fraunhofer IGD, Darmstadt, Germany",
+      "Vienna University of Technology, Austria",
+      "University of Rostock, Germany",
+      "Johannes Kepler University, Linz, Austria",
+      "University of Rostock, Germany"
+    ],
+    "AuthorKeywords": [
+      "Visual analytics",
+      "guidance model",
+      "assistance",
+      "user support"
+    ],
+    "PubsCited": 55.0
+  },
+  "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598469",
+    "FirstPage": 191.0,
+    "LastPage": 200.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Michael Glueck",
+      "Alina Gvozdik",
+      "Fanny Chevalier",
+      "Azam Khan",
+      "Michael Brudno",
+      "Daniel J. Wigdor"
+    ],
+    "AuthorAffiliation": [
+      "Autodesk ResearchUniversity of Toronto",
+      "University of Toronto",
+      "Inria",
+      "Autodesk Research",
+      "Hospital for Sick Children, University of Toronto, Toronto",
+      "University of Toronto"
+    ],
+    "AuthorKeywords": [
+      "Cross-sectional cohort analysis",
+      "Phenotypes",
+      "Human Phenotype Ontology (HPO)"
+    ],
+    "PubsCited": 45.0
+  },
+  "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598470",
+    "FirstPage": 131.0,
+    "LastPage": 140.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Cagatay Turkay",
+      "Erdem Kaya",
+      "Selim Balcisoy",
+      "Helwig Hauser"
+    ],
+    "AuthorAffiliation": [
+      "City University, London, UK",
+      "Sabanci University, Turkey",
+      "Sabanci University, Turkey",
+      "University of Bergen, Norway"
+    ],
+    "AuthorKeywords": [
+      "Progressive analytics",
+      "high dimensional data",
+      "iterative refinement",
+      "visual analytics"
+    ],
+    "PubsCited": 48.0
+  },
+  "A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598471",
+    "FirstPage": 41.0,
+    "LastPage": 50.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Filip Dabek",
+      "Jesus J. Caban"
+    ],
+    "AuthorAffiliation": [
+      "National Intrepid Center of Excellence, Walter Reed National Military Medical Center, Bethesda, MD",
+      "National Intrepid Center of Excellence, Walter Reed National Military Medical Center, Bethesda, MD"
+    ],
+    "AuthorKeywords": [
+      "Machine Learning",
+      "Visual Analytics",
+      "User Interactions",
+      "Analytic Provenance"
+    ],
+    "PubsCited": 41.0
+  },
+  "Blockwise Human Brain Network Visual Comparison Using NodeTrix Representation": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598472",
+    "FirstPage": 181.0,
+    "LastPage": 190.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Xinsong Yang",
+      "Lei Shi 0002",
+      "Madelaine Daianu",
+      "Hanghang Tong",
+      "Qingsong Liu",
+      "Paul M. Thompson"
+    ],
+    "AuthorAffiliation": [
+      "Chinese Academy of Sciences, SKLCSInstitute of Software",
+      "Chinese Academy of Sciences, SKLCSInstitute of Software",
+      "Imaging Genetics CenterMark &#x0026",
+      " Mary Stevens Institute for Neuroimaging &#x0026",
+      " InformaticsUniversity of Southern California",
+      "School of Computing, Informatics and Decision Systems EngineeringArizona State University",
+      "Chinese Academy of Sciences, SKLCSInstitute of Software",
+      "Imaging Genetics CenterMark &#x0026",
+      " Mary Stevens Institute for Neuroimaging &#x0026",
+      " InformaticsUniversity of Southern California"
+    ],
+    "AuthorKeywords": [
+      "Brain Network",
+      "Visual Comparison",
+      "Hybrid Representation"
+    ],
+    "PubsCited": 42.0
+  },
+  "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598495",
+    "FirstPage": 241.0,
+    "LastPage": 250.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Dominik Sacha",
+      "Leishi Zhang",
+      "Michael Sedlmair",
+      "John A. Lee",
+      "Jaakko Peltonen",
+      "Daniel Weiskopf",
+      "Stephen C. North",
+      "Daniel A. Keim"
+    ],
+    "AuthorAffiliation": [
+      "University of Konstanz, Germany",
+      "Middlesex University, UK",
+      "University of Vienna, Austria",
+      "SSS, IREC, MIRO, Université catholique de LouvainUCLBelgian F.R.S.-FNRS.",
+      "Helsinki Institute for Information Technology HIIT, Aalto University, University of Tampere, Finland",
+      "University of Konstanz, Germany",
+      "Infovisible LLC, Oldwick, U.S.A.",
+      "VISUS, University of Stuttgart, Germany"
+    ],
+    "AuthorKeywords": [
+      "Interactive visualization",
+      "machine learning",
+      "visual analytics",
+      "dimensionality reduction"
+    ],
+    "PubsCited": 59.0
+  },
+  "PowerSet: A Comprehensive Visualization of Set Intersections": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598496",
+    "FirstPage": 361.0,
+    "LastPage": 370.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Bilal Alsallakh",
+      "Ren Liu"
+    ],
+    "AuthorAffiliation": [
+      "BOSCH Research",
+      "BOSCH Research"
+    ],
+    "AuthorKeywords": [
+      "scalability",
+      "Set visualization",
+      "treemaps",
+      "interaction"
+    ],
+    "PubsCited": 47.0
+  },
+  "VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598497",
+    "FirstPage": 251.0,
+    "LastPage": 260.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Bowen Yu 0004",
+      "Cláudio T. Silva"
+    ],
+    "AuthorAffiliation": [
+      "New York University",
+      "New York University"
+    ],
+    "AuthorKeywords": [
+      "Visualization framework",
+      "data flow",
+      "subset flow model",
+      "tabular data"
+    ],
+    "PubsCited": 47.0
+  },
+  "Investigating the Use of a Dynamic Physical Bar Chart for Data Exploration and Presentation": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598498",
+    "FirstPage": 451.0,
+    "LastPage": 460.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Faisal Taher",
+      "Yvonne Jansen",
+      "Jonathan Woodruff",
+      "John Hardy",
+      "Kasper Hornbæk",
+      "Jason Alexander"
+    ],
+    "AuthorAffiliation": [
+      "Lancaster University",
+      "University of Copenhagen",
+      "Lancaster University",
+      "Lancaster University",
+      "University of Copenhagen",
+      "Lancaster University"
+    ],
+    "AuthorKeywords": [
+      "Shape-changing displays",
+      "physicalization",
+      "physical visualization",
+      "bar charts",
+      "user behaviour",
+      "data presentation"
+    ],
+    "PubsCited": 33.0
+  },
+  "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598518",
+    "FirstPage": 571.0,
+    "LastPage": 580.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Michail Schwab",
+      "Hendrik Strobelt",
+      "James Tompkin",
+      "Colin Fredericks",
+      "Connor Huff",
+      "Dana Higgins",
+      "Anton Strezhnev",
+      "Mayya Komisarchik",
+      "Gary King",
+      "Hanspeter Pfister"
+    ],
+    "AuthorAffiliation": [
+      "Harvard Paulson SEAS",
+      "Harvard Paulson SEAS",
+      "Harvard Paulson SEAS",
+      "HarvardX",
+      "Harvard Institute for Quantitative Social Sciences",
+      "Harvard Institute for Quantitative Social Sciences",
+      "Harvard Institute for Quantitative Social Sciences",
+      "Harvard Institute for Quantitative Social Sciences",
+      "Harvard Institute for Quantitative Social Sciences",
+      "Harvard Paulson SEAS"
+    ],
+    "AuthorKeywords": [
+      "education",
+      "Hierarchies",
+      "information visualization"
+    ],
+    "PubsCited": 37.0
+  },
+  "Quantifying the Visual Impact of Classification Boundaries in Choropleth Maps": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598541",
+    "FirstPage": 371.0,
+    "LastPage": 380.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Yifan Zhang 0007",
+      "Ross Maciejewski"
+    ],
+    "AuthorAffiliation": [
+      "Arizona State University",
+      "Arizona State University"
+    ],
+    "AuthorKeywords": [
+      "Choropleth",
+      "Classification",
+      "Visualization",
+      "Geodemographics",
+      "Geovisualization"
+    ],
+    "PubsCited": 52.0
+  },
+  "Small Multiples with Gaps": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598542",
+    "FirstPage": 381.0,
+    "LastPage": 390.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Wouter Meulemans",
+      "Jason Dykes",
+      "Aidan Slingsby",
+      "Cagatay Turkay",
+      "Jo Wood"
+    ],
+    "AuthorAffiliation": [
+      "giCentre, City University, London",
+      "giCentre, City University, London",
+      "giCentre, City University, London",
+      "giCentre, City University, London",
+      "giCentre, City University, London"
+    ],
+    "AuthorKeywords": [
+      "Geographic visualization",
+      "small multiples",
+      "whitespace",
+      "design space",
+      "metrics",
+      "optimization"
+    ],
+    "PubsCited": 41.0
+  },
+  "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598543",
+    "FirstPage": 261.0,
+    "LastPage": 270.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Jian Zhao 0010",
+      "Michael Glueck",
+      "Simon Breslav",
+      "Fanny Chevalier",
+      "Azam Khan"
+    ],
+    "AuthorAffiliation": [
+      "Autodesk Research",
+      "Autodesk Research",
+      "Autodesk Research",
+      "INRIA",
+      "Autodesk Research"
+    ],
+    "AuthorKeywords": [
+      "Externalization user-authored annotation",
+      "exploratory sequential data analysis",
+      "graph-based visualization"
+    ],
+    "PubsCited": 39.0
+  },
+  "Familiarity Vs Trust: A Comparative Study of Domain Scientists Trust in Visual Analytics and Conventional Analysis Methods": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598544",
+    "FirstPage": 271.0,
+    "LastPage": 280.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Aritra Dasgupta",
+      "Joon-Yong Lee",
+      "Ryan Wilson",
+      "Robert A. Lafrance",
+      "Nick Cramer",
+      "Kristin A. Cook",
+      "Samuel H. Payne"
+    ],
+    "AuthorAffiliation": [
+      "Pacific Northwest National Laboratory",
+      "Pacific Northwest National Laboratory",
+      "Pacific Northwest National Laboratory",
+      "Pacific Northwest National Laboratory",
+      "Pacific Northwest National Laboratory",
+      "Pacific Northwest National Laboratory",
+      "Pacific Northwest National Laboratory"
+    ],
+    "AuthorKeywords": [
+      "trust",
+      "transparency",
+      "familiarity",
+      "uncertainty",
+      "biological data analysis"
+    ],
+    "PubsCited": 41.0
+  },
+  "What do Constraint Programming Users Want to See? Exploring the Role of Visualisation in Profiling of Models and Search": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598545",
+    "FirstPage": 281.0,
+    "LastPage": 290.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Sarah Goodwin",
+      "Christopher Mears",
+      "Tim Dwyer",
+      "Maria Garcia de la Banda",
+      "Guido Tack",
+      "Mark Wallace 0001"
+    ],
+    "AuthorAffiliation": [
+      "Adaptive Visualisation LabMonash University",
+      "Faculty of Information Technology, Monash University",
+      "Adaptive Visualisation LabMonash University",
+      "Faculty of Information Technology, Monash University",
+      "Faculty of Information Technology, Monash University",
+      "Faculty of Information Technology, Monash University"
+    ],
+    "AuthorKeywords": [
+      "visual analytics",
+      "user-centred design",
+      "profiling",
+      "constraint programming",
+      "tree visualisations"
+    ],
+    "PubsCited": 39.0
+  },
+  "Urban Pulse: Capturing the Rhythm of Cities": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598585",
+    "FirstPage": 791.0,
+    "LastPage": 800.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Fabio Miranda 0001",
+      "Harish Doraiswamy",
+      "Marcos Lage",
+      "Kai Zhao",
+      "Bruno Gonçalves",
+      "Luc Wilson",
+      "Mondrian Hsieh",
+      "Cláudio T. Silva"
+    ],
+    "AuthorAffiliation": [
+      "New York University",
+      "New York University",
+      "Universidade Federal Fluminense",
+      "New York University",
+      "New York University",
+      "Kohn Pedersen Fox Associates PC",
+      "Kohn Pedersen Fox Associates PC",
+      "New York University"
+    ],
+    "AuthorKeywords": [
+      "Topology-based techniques",
+      "urban data",
+      "visual exploration"
+    ],
+    "PubsCited": 53.0
+  },
+  "Exploring the Possibilities of Embedding Heterogeneous Data Attributes in Familiar Visualizations": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598586",
+    "FirstPage": 581.0,
+    "LastPage": 590.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Mona Hosseinkhani Loorak",
+      "Charles Perin",
+      "Christopher Collins 0001",
+      "Sheelagh Carpendale"
+    ],
+    "AuthorAffiliation": [
+      "Department of Computer Science, University of Calgary",
+      "Department of Computer Science, University of Calgary",
+      "University of Ontario",
+      "Department of Computer Science, University of Calgary"
+    ],
+    "AuthorKeywords": [
+      "Multi-dimensional data",
+      "Hybrid visualization"
+    ],
+    "PubsCited": 54.0
+  },
+  "Screenit: Visual Analysis of Cellular Screens": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598587",
+    "FirstPage": 591.0,
+    "LastPage": 600.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Kasper Dinkla",
+      "Hendrik Strobelt",
+      "Bryan Genest",
+      "Stephan Reiling",
+      "Mark Borowsky",
+      "Hanspeter Pfister"
+    ],
+    "AuthorAffiliation": [
+      "Harvard University",
+      "Harvard University",
+      "Novartis Institute of BioMedical Research",
+      "Novartis Institute of BioMedical Research",
+      "Novartis Institute of BioMedical Research",
+      "Harvard University"
+    ],
+    "AuthorKeywords": [
+      "High-content screening",
+      "visual analysis",
+      "feature selection",
+      "image classification",
+      "biology",
+      "multivariate",
+      "hierarchy"
+    ],
+    "PubsCited": 48.0
+  },
+  "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598588",
+    "FirstPage": 601.0,
+    "LastPage": 610.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Anzu Hakone",
+      "Lane Harrison",
+      "Alvitta Ottley",
+      "Nathan Winters",
+      "Caitlin Gutheil",
+      "Paul K. J. Han",
+      "Remco Chang"
+    ],
+    "AuthorAffiliation": [
+      "Tufts University",
+      "Worcester Polytechnic Institute",
+      "Tufts University",
+      "Tufts University",
+      "Maine Medical Center",
+      "Maine Medical Center",
+      "Tufts University"
+    ],
+    "AuthorKeywords": [
+      "Design studies",
+      "task and requirement analysis",
+      "presentation",
+      "production",
+      "and dissemination",
+      "medical visualization"
+    ],
+    "PubsCited": 54.0
+  },
+  "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598589",
+    "FirstPage": 611.0,
+    "LastPage": 620.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Stephan Pajer",
+      "Marc Streit",
+      "Thomas Torsney-Weir",
+      "Florian Spechtenhauser",
+      "Torsten Möller",
+      "Harald Piringer"
+    ],
+    "AuthorAffiliation": [
+      "VRVis Research Center",
+      "University Linz",
+      "University of Vienna",
+      "VRVis Research Center",
+      "University of Vienna",
+      "VRVis Research Center"
+    ],
+    "AuthorKeywords": [
+      "Visual analysis",
+      "decision making",
+      "multi-objective optimization",
+      "interactive ranking",
+      "rank sensitivity"
+    ],
+    "PubsCited": 41.0
+  },
+  "Visualizing Social Media Content with SentenTree": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598590",
+    "FirstPage": 621.0,
+    "LastPage": 630.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Mengdie Hu",
+      "Krist Wongsuphasawat",
+      "John T. Stasko"
+    ],
+    "AuthorAffiliation": [
+      "Georgia Institute of Technology",
+      "Twitter Inc.",
+      "Georgia Institute of Technology"
+    ],
+    "AuthorKeywords": [
+      "text visualization",
+      "social media",
+      "natural language processing",
+      "word cloud",
+      "Twitter"
+    ],
+    "PubsCited": 46.0
+  },
+  "Optimizing Hierarchical Visualizations with the Minimum Description Length Principle": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598591",
+    "FirstPage": 631.0,
+    "LastPage": 640.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Rafael Veras",
+      "Christopher Collins 0001"
+    ],
+    "AuthorAffiliation": [
+      "University of OntarioInstitute of Technology",
+      "University of OntarioInstitute of Technology"
+    ],
+    "AuthorKeywords": [
+      "antichain",
+      "Hierarchy data",
+      "data aggregation",
+      "multiscale visualization",
+      "tree cut"
+    ],
+    "PubsCited": 33.0
+  },
+  "Visplause: Visual Data Quality Assessment of Many Time Series Using Plausibility Checks": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598592",
+    "FirstPage": 641.0,
+    "LastPage": 650.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Clemens Arbesser",
+      "Florian Spechtenhauser",
+      "Thomas Mühlbacher",
+      "Harald Piringer"
+    ],
+    "AuthorAffiliation": [
+      "VrVis Research Center, Vienna, Austria",
+      "VrVis Research Center, Vienna, Austria",
+      "VrVis Research Center, Vienna, Austria",
+      "VrVis Research Center, Vienna, Austria"
+    ],
+    "AuthorKeywords": [
+      "Data Quality Assessment",
+      "High-Dimensional Data",
+      "Hierarchical Aggregation",
+      "Linked Views"
+    ],
+    "PubsCited": 49.0
+  },
+  "Comparing Cross-Sections and 3D Renderings for Surface Matching Tasks Using Physical Ground Truths": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598602",
+    "FirstPage": 781.0,
+    "LastPage": 790.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Andreas J. Lind",
+      "Stefan Bruckner"
+    ],
+    "AuthorAffiliation": [
+      "University of Bergen, Norway",
+      "University of Bergen, Norway"
+    ],
+    "AuthorKeywords": [
+      "Human-Computer Interaction",
+      "Quantitative Evaluation and Volume Visualization"
+    ],
+    "PubsCited": 46.0
+  },
+  "Visualization and Extraction of Carvings for Heritage Conservation": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598603",
+    "FirstPage": 801.0,
+    "LastPage": 810.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Kai Lawonn",
+      "Erik Trostmann",
+      "Bernhard Preim",
+      "Klaus Hildebrandt"
+    ],
+    "AuthorAffiliation": [
+      "University of Koblenz-Landau, Germany",
+      "Fraunhofer Institute for Factory Operation and Automation IFF, Germany",
+      "University of Magdeburg, Germany",
+      "Delft University of Technology, The Netherlands"
+    ],
+    "AuthorKeywords": [
+      "feature filtering",
+      "Feature extraction",
+      "heritage preservation",
+      "Frangi filter",
+      "surface analysis"
+    ],
+    "PubsCited": 42.0
+  },
+  "Embedded Data Representations": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598608",
+    "FirstPage": 461.0,
+    "LastPage": 470.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Wesley Willett",
+      "Yvonne Jansen",
+      "Pierre Dragicevic"
+    ],
+    "AuthorAffiliation": [
+      "University of Calgary",
+      "University of Copenhagen",
+      "Inria"
+    ],
+    "AuthorKeywords": [
+      "augmented reality",
+      "Information visualization",
+      "data physicalization",
+      "ambient displays",
+      "ubiquitous computing"
+    ],
+    "PubsCited": 54.0
+  },
+  "Iterating between Tools to Create and Edit Visualizations": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598609",
+    "FirstPage": 481.0,
+    "LastPage": 490.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Alex Bigelow",
+      "Steven Mark Drucker",
+      "Danyel Fisher",
+      "Miriah D. Meyer"
+    ],
+    "AuthorAffiliation": [
+      "University of Utah",
+      "Microsoft Research",
+      "Microsoft Research",
+      "University of Utah"
+    ],
+    "AuthorKeywords": [
+      "illustration",
+      "Visualization",
+      "iteration"
+    ],
+    "PubsCited": 32.0
+  },
+  "Surprise! Bayesian Weighting for De-Biasing Thematic Maps": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598618",
+    "FirstPage": 651.0,
+    "LastPage": 660.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Michael Correll",
+      "Jeffrey Heer"
+    ],
+    "AuthorAffiliation": [
+      "University of Washington",
+      "University of Washington"
+    ],
+    "AuthorKeywords": [
+      "Thematic Maps",
+      "Bayesian Surprise",
+      "Event Visualization",
+      "Spatia-temporal data"
+    ],
+    "PubsCited": 47.0
+  },
+  "Multi-Granular Trend Detection for Time-Series Analysis": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598619",
+    "FirstPage": 661.0,
+    "LastPage": 670.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Arthur van Goethem",
+      "Frank Staals",
+      "Maarten Löffler",
+      "Jason Dykes",
+      "Bettina Speckmann"
+    ],
+    "AuthorAffiliation": [
+      "TU, Eindhoven",
+      "MADALGO, Aarhus University",
+      "Utrecht University",
+      "City University, London",
+      "TU, Eindhoven"
+    ],
+    "AuthorKeywords": [
+      "Interactive Exploration",
+      "Trend Detection",
+      "Time Series"
+    ],
+    "PubsCited": 41.0
+  },
+  "Data-Driven Guides: Supporting Expressive Design for Information Graphics": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598620",
+    "FirstPage": 491.0,
+    "LastPage": 500.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Nam Wook Kim",
+      "Eston Schweickart",
+      "Zhicheng Liu",
+      "Mira Dontcheva",
+      "Wilmot Li",
+      "Jovan Popovic",
+      "Hanspeter Pfister"
+    ],
+    "AuthorAffiliation": [
+      "John A. Paulson School of Engineering and Applied SciencesHarvard University",
+      "Computer Science department, Cornell University",
+      "Adobe Research",
+      "Adobe Research",
+      "Adobe Research",
+      "Adobe Research",
+      "John A. Paulson School of Engineering and Applied SciencesHarvard University"
+    ],
+    "AuthorKeywords": [
+      "Information graphics",
+      "visualization",
+      "design tools",
+      "2D graphics"
+    ],
+    "PubsCited": 55.0
+  },
+  "Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598624",
+    "FirstPage": 671.0,
+    "LastPage": 680.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Cícero A. L. Pahins",
+      "Sean A. Stephens",
+      "Carlos Scheidegger",
+      "João Luiz Dihl Comba"
+    ],
+    "AuthorAffiliation": [
+      "Instituto de InformáticaUFRGS",
+      "University of Arizona",
+      "University of Arizona",
+      "Instituto de InformáticaUFRGS"
+    ],
+    "AuthorKeywords": [
+      "Scalability",
+      "data cube",
+      "multidimensional data",
+      "interactive exploration"
+    ],
+    "PubsCited": 45.0
+  },
+  "Authoring Data-Driven Videos with DataClips": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598647",
+    "FirstPage": 501.0,
+    "LastPage": 510.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Fereshteh Amini",
+      "Nathalie Henry Riche",
+      "Bongshin Lee",
+      "Andrés Monroy-Hernández",
+      "Pourang Irani"
+    ],
+    "AuthorAffiliation": [
+      "University of Manitoba, Canada",
+      "Microsoft",
+      "Microsoft",
+      "Microsoft",
+      "University of Manitoba, Canada"
+    ],
+    "AuthorKeywords": [
+      "data video",
+      "narrative visualization",
+      "data storytelling",
+      "authoring tools",
+      "visualization systems"
+    ],
+    "PubsCited": 44.0
+  },
+  "cite2vec: Citation-Driven Document Exploration via Word Embeddings": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598667",
+    "FirstPage": 691.0,
+    "LastPage": 700.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Matthew Berger",
+      "Katherine McDonough",
+      "Lee M. Seversky"
+    ],
+    "AuthorAffiliation": [
+      "Air Force Research Laboratory",
+      "Northeastern University",
+      "Air Force Research Laboratory"
+    ],
+    "AuthorKeywords": [
+      "word embeddings",
+      "document visualization"
+    ],
+    "PubsCited": 44.0
+  },
+  "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598694",
+    "FirstPage": 681.0,
+    "LastPage": 690.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Zhe Wang",
+      "Nivan Ferreira",
+      "Youhao Wei",
+      "Aarthy Sankari Bhaskar",
+      "Carlos Scheidegger"
+    ],
+    "AuthorAffiliation": [
+      "University of Arizona",
+      "Universidade Federal de Pernambuco",
+      "University of Arizona",
+      "University of Arizona",
+      "University of Arizona"
+    ],
+    "AuthorKeywords": [
+      "data cubes",
+      "Data modeling",
+      "dimensionality reduction",
+      "interactive visualization"
+    ],
+    "PubsCited": 45.0
+  },
+  "Visual Analytics for Mobile Eye Tracking": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598695",
+    "FirstPage": 301.0,
+    "LastPage": 310.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Kuno Kurzhals",
+      "Marcel Hlawatsch",
+      "Christof Seeger",
+      "Daniel Weiskopf"
+    ],
+    "AuthorAffiliation": [
+      "University of Stuttgart",
+      "University of Stuttgart",
+      "Stuttgart Media University",
+      "University of Stuttgart"
+    ],
+    "AuthorKeywords": [
+      "Eye tracking",
+      "visual analytics",
+      "video visualization"
+    ],
+    "PubsCited": 34.0
+  },
+  "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598789",
+    "FirstPage": 711.0,
+    "LastPage": 720.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Chris Bryan",
+      "Gregory Guterman",
+      "Kwan-Liu Ma",
+      "Harris A. Lewin",
+      "Denis M. Larkin",
+      "Jaebum Kim",
+      "Jian Ma 0004",
+      "Marta Farre"
+    ],
+    "AuthorAffiliation": [
+      "University of California, Davis",
+      "University of California, Davis",
+      "University of California, Davis",
+      "University of California, Davis",
+      "Royal Veterinary College, University of London",
+      "Konkuk University, Seoul",
+      "Carnegie Mellon University",
+      "Royal Veterinary College, University of London"
+    ],
+    "AuthorKeywords": [
+      "Bioinformatic visualization",
+      "education",
+      "learning",
+      "genome evolution",
+      "chromosome",
+      "user study"
+    ],
+    "PubsCited": 53.0
+  },
+  "Visualizing Shape Deformations with Variation of Geometric Spectrum": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598790",
+    "FirstPage": 721.0,
+    "LastPage": 730.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Jiaxi Hu",
+      "Hajar Hamidian",
+      "Zichun Zhong",
+      "Jing Hua"
+    ],
+    "AuthorAffiliation": [
+      "Wayne State University",
+      "Wayne State University",
+      "Wayne State University",
+      "Wayne State University"
+    ],
+    "AuthorKeywords": [
+      "Geometry-based Technique",
+      "Spectral Analysis",
+      "Biomedical Visualization"
+    ],
+    "PubsCited": 44.0
+  },
+  "Corresponding Supine and Prone Colon Visualization Using Eigenfunction Analysis and Fold Modeling": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598791",
+    "FirstPage": 751.0,
+    "LastPage": 760.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Saad Nadeem",
+      "Joseph Marino",
+      "Xianfeng Gu",
+      "Arie E. Kaufman"
+    ],
+    "AuthorAffiliation": [
+      "Computer Science Department, Stony Brook University, Stony Brook, NY",
+      "Computer Science Department, Stony Brook University, Stony Brook, NY",
+      "Computer Science Department, Stony Brook University, Stony Brook, NY",
+      "Computer Science Department, Stony Brook University, Stony Brook, NY"
+    ],
+    "AuthorKeywords": [
+      "Medical visualization",
+      "colon registration",
+      "geometry-based techniques",
+      "mathematical foundations for visualization"
+    ],
+    "PubsCited": 38.0
+  },
+  "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598795",
+    "FirstPage": 761.0,
+    "LastPage": 770.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Monique Meuschke",
+      "Samuel Voß",
+      "Oliver Beuing",
+      "Bernhard Preim",
+      "Kai Lawonn"
+    ],
+    "AuthorAffiliation": [
+      "University of Magdeburg, Germany",
+      "University of Magdeburg, Germany",
+      "University of Magdeburg, Germany",
+      "University of Magdeburg, Germany",
+      "University of Koblenz-Landau, Germany"
+    ],
+    "AuthorKeywords": [
+      "Medical visualizations",
+      "aneurysms",
+      "blood flow",
+      "wall thickness",
+      "wall deformation",
+      "projections"
+    ],
+    "PubsCited": 47.0
+  },
+  "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598796",
+    "FirstPage": 311.0,
+    "LastPage": 320.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Hyunjoo Song",
+      "Jeongjin Lee",
+      "Tae Jung Kim",
+      "Kyoung Ho Lee",
+      "Bo Hyoung Kim",
+      "Jinwook Seo"
+    ],
+    "AuthorAffiliation": [
+      "Seoul National University",
+      "Soongsil University",
+      "Samsung Medical Center",
+      "Bundang Hospital, Seoul National University",
+      "Hankuk University of Foreign Studies",
+      "Seoul National University"
+    ],
+    "AuthorKeywords": [
+      "Eye tracking",
+      "gaze visualization",
+      "gaze pattern comparison",
+      "volumetric medical images",
+      "context-embedded interactive scatterplot",
+      "interactive temporal chart"
+    ],
+    "PubsCited": 32.0
+  },
+  "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598797",
+    "FirstPage": 321.0,
+    "LastPage": 330.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Zhicheng Liu",
+      "Yang Wang",
+      "Mira Dontcheva",
+      "Matthew Hoffman 0001",
+      "Seth Walker",
+      "Alan Wilson 0004"
+    ],
+    "AuthorAffiliation": [
+      "Adobe Research",
+      "University of California, Davis",
+      "Adobe Research",
+      "Adobe Research",
+      "Adobe Research",
+      "Adobe Systems Inc."
+    ],
+    "AuthorKeywords": [
+      "event sequences",
+      "Clickstream Data",
+      "sequence mining",
+      "visual analytics"
+    ],
+    "PubsCited": 38.0
+  },
+  "Molecular Surface Maps": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598824",
+    "FirstPage": 701.0,
+    "LastPage": 710.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Michael Krone",
+      "Florian Friess",
+      "Katrin Scharnowski",
+      "Guido Reina",
+      "Silvia Fademrecht",
+      "Tobias Kulschewski",
+      "Jürgen Pleiss",
+      "Thomas Ertl"
+    ],
+    "AuthorAffiliation": [
+      "Visualization Research Center (VISUS), University of Stuttgart, Germany",
+      "Visualization Research Center (VISUS), University of Stuttgart, Germany",
+      "Visualization Research Center (VISUS), University of Stuttgart, Germany",
+      "Visualization Research Center (VISUS), University of Stuttgart, Germany",
+      "Institute of Technical Biochemistry (ITB), University of Stuttgart, Germany",
+      "Institute of Technical Biochemistry (ITB), University of Stuttgart, Germany",
+      "Institute of Technical Biochemistry (ITB), University of Stuttgart, Germany",
+      "Visualization Research Center (VISUS), University of Stuttgart, Germany"
+    ],
+    "AuthorKeywords": [
+      "Molecular Visualization",
+      "Maps",
+      "Cartography",
+      "Data Aggregation",
+      "Dimensionality Reduction",
+      "Space-time Cube"
+    ],
+    "PubsCited": 64.0
+  },
+  "Physics-Based Visual Characterization of Molecular Interaction Forces": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598825",
+    "FirstPage": 731.0,
+    "LastPage": 740.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Pedro Hermosilla",
+      "Jorge Estrada",
+      "Victor Guallar",
+      "Timo Ropinski",
+      "Àlvar Vinacua",
+      "Pere-Pau Vázquez"
+    ],
+    "AuthorAffiliation": [
+      "ViRVIG Group, Barcelona Supercomputing Center",
+      "Barcelona Supercomputing Center",
+      "Barcelona Supercomputing Center",
+      "Visual Computing Group, Ulm University",
+      "ViRVIG Group, UPC, Barcelona",
+      "ViRVIG Group, UPC, Barcelona"
+    ],
+    "AuthorKeywords": [
+      "Molecular visualization",
+      "binding analysis"
+    ],
+    "PubsCited": 52.0
+  },
+  "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598826",
+    "FirstPage": 741.0,
+    "LastPage": 750.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Noeska N. Smit",
+      "Kai Lawonn",
+      "Annelot Kraima",
+      "Marco C. DeRuiter",
+      "Hessam Sokooti",
+      "Stefan Bruckner",
+      "Elmar Eisemann",
+      "Anna Vilanova"
+    ],
+    "AuthorAffiliation": [
+      "Delft University of TechnologyUniversity of Bergen",
+      "University of Koblenz, Landau",
+      "Leiden University Medical Center",
+      "Leiden University Medical Center",
+      "Leiden University Medical Center",
+      "University of Bergen",
+      "Delft University of Technology",
+      "Delft University of Technology"
+    ],
+    "AuthorKeywords": [
+      "Atlas",
+      "surgical planning",
+      "medical visualization"
+    ],
+    "PubsCited": 51.0
+  },
+  "Visualization as Seen through its Research Paper Keywords": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598827",
+    "FirstPage": 771.0,
+    "LastPage": 780.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Petra Isenberg",
+      "Tobias Isenberg 0001",
+      "Michael Sedlmair",
+      "Jian Chen",
+      "Torsten Möller"
+    ],
+    "AuthorAffiliation": [
+      "Inria, France",
+      "Inria, France",
+      "University of Vienna, Austria",
+      "University of Maryland, Baltimore County, USA",
+      "University of Vienna, Austria"
+    ],
+    "AuthorKeywords": [
+      "data analysis",
+      "research themes",
+      "research topics",
+      "taxonomy",
+      "visualization history",
+      "theory"
+    ],
+    "PubsCited": 48.0
+  },
+  "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598828",
+    "FirstPage": 61.0,
+    "LastPage": 70.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Donghao Ren",
+      "Saleema Amershi",
+      "Bongshin Lee",
+      "Jina Suh",
+      "Jason D. Williams"
+    ],
+    "AuthorAffiliation": [
+      "University of California, Santa Barbara",
+      "Microsoft Research",
+      "Microsoft Research",
+      "Microsoft Research",
+      "Microsoft Research"
+    ],
+    "AuthorKeywords": [
+      "Performance analysis",
+      "classification",
+      "usable machine learning"
+    ],
+    "PubsCited": 38.0
+  },
+  "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598830",
+    "FirstPage": 81.0,
+    "LastPage": 90.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Junpeng Wang",
+      "Xiaotong Liu",
+      "Han-Wei Shen",
+      "Guang Lin"
+    ],
+    "AuthorAffiliation": [
+      "The Ohio State University",
+      "The Ohio State University",
+      "The Ohio State University",
+      "Purdue University"
+    ],
+    "AuthorKeywords": [
+      "Parallel coordinates plots",
+      "parameter analysis",
+      "multi-resolution climate ensembles"
+    ],
+    "PubsCited": 48.0
+  },
+  "Towards Better Analysis of Deep Convolutional Neural Networks": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598831",
+    "FirstPage": 91.0,
+    "LastPage": 100.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Mengchen Liu",
+      "Jiaxin Shi",
+      "Zhen Li",
+      "Chongxuan Li",
+      "Jun Zhu 0001",
+      "Shixia Liu"
+    ],
+    "AuthorAffiliation": [
+      "School of Software and TNListTsinghua University",
+      "Dept. of Comp. Sci. &#x0026",
+      " Tech., State Key Lab of Intell. Tech. &#x0026",
+      " Sys.TNList LabCBICR Center",
+      "School of Software and TNListTsinghua University",
+      "Dept. of Comp. Sci. &#x0026",
+      " Tech., State Key Lab of Intell. Tech. &#x0026",
+      " Sys.TNList LabCBICR Center",
+      "School of Software and TNListTsinghua University",
+      "School of Software and TNListTsinghua University"
+    ],
+    "AuthorKeywords": [
+      "Deep convolutional neural networks",
+      "rectangle packing",
+      "matrix reordering",
+      "edge bundling",
+      "biclustering"
+    ],
+    "PubsCited": 60.0
+  },
+  "Visualizing the Hidden Activity of Artificial Neural Networks": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598838",
+    "FirstPage": 101.0,
+    "LastPage": 110.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Paulo E. Rauber",
+      "Samuel G. Fadel",
+      "Alexandre X. Falcão",
+      "Alexandru Telea"
+    ],
+    "AuthorAffiliation": [
+      "University of GroningenUniversity of Campinas",
+      "University of São Paulo",
+      "University of Campinas",
+      "University of Groningen"
+    ],
+    "AuthorKeywords": [
+      "Artificial neural networks",
+      "dimensionality reduction",
+      "algorithm understanding"
+    ],
+    "PubsCited": 50.0
+  },
+  "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598839",
+    "FirstPage": 331.0,
+    "LastPage": 340.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Bahador Saket",
+      "Hannah Kim",
+      "Eli T. Brown",
+      "Alex Endert"
+    ],
+    "AuthorAffiliation": [
+      "Georgia Institute of Technology",
+      "Georgia Institute of Technology",
+      "DePaul University",
+      "Georgia Institute of Technology"
+    ],
+    "AuthorKeywords": [
+      "Visual Data Exploration",
+      "Visualization by Demonstration",
+      "Visualization Tools"
+    ],
+    "PubsCited": 35.0
+  },
+  "Decal-Maps: Real-Time Layering of Decals on Surfaces for Multivariate Visualization": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598866",
+    "FirstPage": 821.0,
+    "LastPage": 830.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Allan Rocha",
+      "Usman R. Alim",
+      "Julio Daniel Silva",
+      "Mario Costa Sousa"
+    ],
+    "AuthorAffiliation": [
+      "University of Calgary",
+      "University of Calgary",
+      "University of Calgary",
+      "University of Calgary"
+    ],
+    "AuthorKeywords": [
+      "Multivariate",
+      "Visualization",
+      "Real-time",
+      "Decal",
+      "Surface",
+      "Layering",
+      "Design"
+    ],
+    "PubsCited": 60.0
+  },
+  "Evaluation of Graph Sampling: A Visualization Perspective": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598867",
+    "FirstPage": 401.0,
+    "LastPage": 410.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Yanhong Wu",
+      "Nan Cao",
+      "Daniel Archambault",
+      "Qiaomu Shen",
+      "Huamin Qu",
+      "Weiwei Cui"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "New York University, Shanghai",
+      "Swansea University",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Microsoft Research Asia"
+    ],
+    "AuthorKeywords": [
+      "Graph visualization",
+      "graph sampling",
+      "empirical evaluation"
+    ],
+    "PubsCited": 52.0
+  },
+  "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598868",
+    "FirstPage": 831.0,
+    "LastPage": 840.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Florian Ferstl",
+      "Mathias Kanzler",
+      "Marc Rautenhaus",
+      "Rüdiger Westermann"
+    ],
+    "AuthorAffiliation": [
+      "Technical University of Munich",
+      "Technical University of Munich",
+      "Technical University of Munich",
+      "Technical University of Munich"
+    ],
+    "AuthorKeywords": [
+      "Ensemble visualization",
+      "uncertainty visualization",
+      "meteorological visualization",
+      "iso-contours",
+      "time-varying data",
+      "clustering"
+    ],
+    "PubsCited": 52.0
+  },
+  "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598869",
+    "FirstPage": 841.0,
+    "LastPage": 850.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Ayan Biswas",
+      "Guang Lin",
+      "Xiaotong Liu",
+      "Han-Wei Shen"
+    ],
+    "AuthorAffiliation": [
+      "GRAVITY group, The Ohio State University",
+      "Purdue University",
+      "GRAVITY group, The Ohio State University",
+      "GRAVITY group, The Ohio State University"
+    ],
+    "AuthorKeywords": [
+      "Ensemble",
+      "time-varying",
+      "multi-resolution",
+      "sensitivity analysis"
+    ],
+    "PubsCited": 46.0
+  },
+  "A Fractional Cartesian Composition Model for Semi-Spatial Comparative Visualization Design": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598870",
+    "FirstPage": 851.0,
+    "LastPage": 860.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Ivan Kolesár",
+      "Stefan Bruckner",
+      "Ivan Viola",
+      "Helwig Hauser"
+    ],
+    "AuthorAffiliation": [
+      "Department of Informatics, University of Bergen, Norway",
+      "Department of Informatics, University of Bergen, Norway",
+      "TU Wien, Austria",
+      "Department of Informatics, University of Bergen, Norway"
+    ],
+    "AuthorKeywords": [
+      "Visualization Models",
+      "Integrating Spatial and Non-Spatial Data Visualization",
+      "Design Methodologies"
+    ],
+    "PubsCited": 41.0
+  },
+  "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598876",
+    "FirstPage": 511.0,
+    "LastPage": 520.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Chris Bryan",
+      "Kwan-Liu Ma",
+      "Jonathan Woodring"
+    ],
+    "AuthorAffiliation": [
+      "University of California, Davis",
+      "University of California, Davis",
+      "Los Alamos National Laboratory"
+    ],
+    "AuthorKeywords": [
+      "Narrative visualization",
+      "storytelling",
+      "annotations",
+      "comic strip visualization",
+      "time-varying data"
+    ],
+    "PubsCited": 46.0
+  },
+  "An Evaluation of Visual Search Support in Maps": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598898",
+    "FirstPage": 421.0,
+    "LastPage": 430.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Rudolf Netzel",
+      "Marcel Hlawatsch",
+      "Michael Burch",
+      "Sanjeev Balakrishnan",
+      "Hansjörg Schmauder",
+      "Daniel Weiskopf"
+    ],
+    "AuthorAffiliation": [
+      "VISUS, University of Stuttgart",
+      "VISUS, University of Stuttgart",
+      "VISUS, University of Stuttgart",
+      "VISUS, University of Stuttgart",
+      "VISUS, University of Stuttgart",
+      "VISUS, University of Stuttgart"
+    ],
+    "AuthorKeywords": [
+      "Visual search",
+      "laboratory study",
+      "eye tracking",
+      "map visualization"
+    ],
+    "PubsCited": 37.0
+  },
+  "Colorgorical: Creating discriminable and preferable color palettes for information visualization": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598918",
+    "FirstPage": 521.0,
+    "LastPage": 530.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Connor Gramazio",
+      "David H. Laidlaw",
+      "Karen B. Schloss"
+    ],
+    "AuthorAffiliation": [
+      "Dept. of Computer Science at Brown University",
+      "Dept. of Computer Science at Brown University",
+      "Dept. of Cognitive, Linguistic, and Psychological Sciences at Brown University"
+    ],
+    "AuthorKeywords": [
+      "Aesthetics in Visualization",
+      "Color Perception",
+      "Metrics & Benchmarks",
+      "Visual Design",
+      "Visualization"
+    ],
+    "PubsCited": 37.0
+  },
+  "Probabilistic Graph Layout for Uncertain Network Visualization": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598919",
+    "FirstPage": 531.0,
+    "LastPage": 540.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Christoph Schulz",
+      "Arlind Nocaj",
+      "Jochen Görtler",
+      "Oliver Deussen",
+      "Ulrik Brandes",
+      "Daniel Weiskopf"
+    ],
+    "AuthorAffiliation": [
+      "VISUSUniversity of Stuttgart",
+      "University of Konstanz",
+      "University of Konstanz",
+      "University of Konstanz",
+      "University of Konstanz",
+      "VISUSUniversity of Stuttgart"
+    ],
+    "AuthorKeywords": [
+      "Uncertainty visualization",
+      "graph layout",
+      "graph visualization",
+      "edge bundling",
+      "Monte Carlo method"
+    ],
+    "PubsCited": 45.0
+  },
+  "VLAT: Development of a Visualization Literacy Assessment Test": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598920",
+    "FirstPage": 551.0,
+    "LastPage": 560.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Sukwon Lee",
+      "Sung-Hee Kim",
+      "Bum Chul Kwon"
+    ],
+    "AuthorAffiliation": [
+      "School of Industrial Engineering, Purdue University, West Lafayette, IN, USA",
+      "Samsung Electronics Co., Ltd., Seoul, South Korea",
+      "IBM T.J. Watson Research Center, Yorktown Heights, NY, USA"
+    ],
+    "AuthorKeywords": [
+      "Visualization Literacy",
+      "Assessment Test",
+      "Instrument",
+      "Measurement",
+      "Aptitude",
+      "Education"
+    ],
+    "PubsCited": 55.0
+  },
+  "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598958",
+    "FirstPage": 541.0,
+    "LastPage": 550.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Benjamin Bach",
+      "Nathalie Henry Riche",
+      "Christophe Hurter",
+      "Kim Marriott",
+      "Tim Dwyer"
+    ],
+    "AuthorAffiliation": [
+      "Microsoft Research-Inria Joint Centre, France",
+      "Microsoft Research, WA, USA",
+      "ENAC, Toulouse, France",
+      "Monash University, Melbourne, Australia",
+      "Monash University, Melbourne, Australia"
+    ],
+    "AuthorKeywords": [
+      "bundling",
+      "Network visualization",
+      "edge compression",
+      "confluent",
+      "power graph"
+    ],
+    "PubsCited": 45.0
+  },
+  "Glyphs for General Second-Order 2D and 3D Tensors": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598998",
+    "FirstPage": 980.0,
+    "LastPage": 989.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Tim Gerrits",
+      "Christian Rössl",
+      "Holger Theisel"
+    ],
+    "AuthorAffiliation": [
+      "Visual Computing group at the University of Magdeburg, Germany",
+      "Visual Computing group at the University of Magdeburg, Germany",
+      "Visual Computing group at the University of Magdeburg, Germany"
+    ],
+    "AuthorKeywords": [
+      "Glyph-based Techniques",
+      "Tensor Field Data",
+      "Flow Visualization"
+    ],
+    "PubsCited": 20.0
+  },
+  "Backward Finite-Time Lyapunov Exponents in Inertial Flows": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599016",
+    "FirstPage": 970.0,
+    "LastPage": 979.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Tobias Günther",
+      "Holger Theisel"
+    ],
+    "AuthorAffiliation": [
+      "Visual Computing Group, University of Magdeburg",
+      "Visual Computing Group, University of Magdeburg"
+    ],
+    "AuthorKeywords": [
+      "Inertial particles",
+      "finite-time Lyapunov exponents",
+      "backward integration",
+      "preferential particle settling"
+    ],
+    "PubsCited": 72.0
+  },
+  "Topological Analysis of Inertial Dynamics": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599018",
+    "FirstPage": 950.0,
+    "LastPage": 959.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Antoni Sagristà",
+      "Stefan Jordan",
+      "Andreas Just",
+      "Fabio Dias",
+      "Luis Gustavo Nonato",
+      "Filip Sadlo"
+    ],
+    "AuthorAffiliation": [
+      "Heidelberg University, Germany",
+      "Heidelberg University, Germany",
+      "ZAH, Heidelberg University, Germany",
+      "Universidade de Såo Paulo, Såo Carlos, Brazil",
+      "Universidade de Såo Paulo, Såo Carlos, Brazil",
+      "Heidelberg University, Germany"
+    ],
+    "AuthorKeywords": [
+      "Visualization of inertial dynamics",
+      "N-body systems",
+      "magnetism",
+      "acceleration"
+    ],
+    "PubsCited": 30.0
+  },
+  "Direct Multifield Volume Ray Casting of Fiber Surfaces": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599040",
+    "FirstPage": 941.0,
+    "LastPage": 949.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Kui Wu 0003",
+      "Aaron Knoll",
+      "Benjamin J. Isaac",
+      "Hamish A. Carr",
+      "Valerio Pascucci"
+    ],
+    "AuthorAffiliation": [
+      "University of Utah",
+      "SCI InstituteUniversity of UtahArgonne National Laboratory",
+      "ICSE, University of Utah",
+      "School of ComputingUniversity of Leeds",
+      "SCI InstituteUniversity of Utah"
+    ],
+    "AuthorKeywords": [
+      "Volume Rendering",
+      "Isosurface",
+      "Multidimensional Data"
+    ],
+    "PubsCited": 42.0
+  },
+  "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599041",
+    "FirstPage": 931.0,
+    "LastPage": 940.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Ingo Wald",
+      "Gregory P. Johnson",
+      "Jefferson Amstutz",
+      "Carson Brownlee",
+      "Aaron Knoll",
+      "Jim Jeffers",
+      "Johannes Günther 0001",
+      "Paul A. Navrátil"
+    ],
+    "AuthorAffiliation": [
+      "Intel Corp",
+      "Intel Corp",
+      "Intel Corp",
+      "Intel Corp",
+      "SCI InsituteUniversity of Utah",
+      "Intel Corp",
+      "Intel Corp",
+      "Texas Advanced Computing Center"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 51.0
+  },
+  "Progressive Direct Volume-to-Volume Transformation": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599042",
+    "FirstPage": 921.0,
+    "LastPage": 930.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Steffen Frey",
+      "Thomas Ertl"
+    ],
+    "AuthorAffiliation": [
+      "University of Stuttgart",
+      "University of Stuttgart"
+    ],
+    "AuthorKeywords": [
+      "Volume transformation",
+      "Volume visualization",
+      "progressive",
+      "automatic",
+      "parallel",
+      "time-varying data",
+      "streaming data"
+    ],
+    "PubsCited": 47.0
+  },
+  "A Versatile and Efficient GPU Data Structure for Spatial Indexing": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599043",
+    "FirstPage": 911.0,
+    "LastPage": 920.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Jens Schneider",
+      "Peter Rautek"
+    ],
+    "AuthorAffiliation": [
+      "Visual Computing Center(VCC)King Abdullah University of Science and Technology (KAUST)",
+      "Visual Computing Center(VCC)King Abdullah University of Science and Technology (KAUST)"
+    ],
+    "AuthorKeywords": [
+      "GPU-based Data Structures",
+      "Binary Index Trees",
+      "Sparse Data"
+    ],
+    "PubsCited": 21.0
+  },
+  "GlyphLens: View-Dependent Occlusion Management in the Interactive Glyph Visualization": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599049",
+    "FirstPage": 891.0,
+    "LastPage": 900.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Xin Tong",
+      "Cheng Li",
+      "Han-Wei Shen"
+    ],
+    "AuthorAffiliation": [
+      "The Ohio State University",
+      "The Ohio State University",
+      "The Ohio State University"
+    ],
+    "AuthorKeywords": [
+      "View-dependent visualization",
+      "focus + context techniques",
+      "manipulation and deformation",
+      "glyph-based techniques",
+      "human-computer interaction"
+    ],
+    "PubsCited": 48.0
+  },
+  "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599058",
+    "FirstPage": 351.0,
+    "LastPage": 360.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Mi Feng",
+      "Cheng Deng",
+      "Evan M. Peck",
+      "Lane Harrison"
+    ],
+    "AuthorAffiliation": [
+      "Worcester Polytechnic Institute",
+      "Worcester Polytechnic Institute",
+      "Bucknell University",
+      "Worcester Polytechnic Institute"
+    ],
+    "AuthorKeywords": [
+      "History",
+      "Visualization",
+      "Interaction"
+    ],
+    "PubsCited": 36.0
+  },
+  "Evaluating the Impact of Binning 2D Scalar Fields": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599106",
+    "FirstPage": 431.0,
+    "LastPage": 440.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Lace M. K. Padilla",
+      "P. Samuel Quinan",
+      "Miriah D. Meyer",
+      "Sarah H. Creem-Regehr"
+    ],
+    "AuthorAffiliation": [
+      "Department of Psychology, University of Utah",
+      "University of UtahSchool of Computing",
+      "University of UtahSchool of Computing",
+      "Department of Psychology, University of Utah"
+    ],
+    "AuthorKeywords": [
+      "Geographic/Geospatial Visualization",
+      "Qualitative Evaluation",
+      "Color Perception",
+      "Perceptual Cognition"
+    ],
+    "PubsCited": 54.0
+  },
+  "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599107",
+    "FirstPage": 441.0,
+    "LastPage": 450.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Maxime Cordeil",
+      "Tim Dwyer",
+      "Karsten Klein 0001",
+      "Bireswar Laha",
+      "Kim Marriott",
+      "Bruce H. Thomas"
+    ],
+    "AuthorAffiliation": [
+      "Monash University",
+      "Monash University",
+      "Monash University",
+      "Stanford University, USA",
+      "Monash University",
+      "University of South Australia"
+    ],
+    "AuthorKeywords": [
+      "3D Network",
+      "Oculus Rift",
+      "CAVE",
+      "Immersive Analytics",
+      "Collaboration"
+    ],
+    "PubsCited": 41.0
+  },
+  "Vol²velle: Printable Interactive Volume Visualization": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599211",
+    "FirstPage": 861.0,
+    "LastPage": 870.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Sergej Stoppel",
+      "Stefan Bruckner"
+    ],
+    "AuthorAffiliation": [
+      "University of Bergen",
+      "University of Bergen"
+    ],
+    "AuthorKeywords": [
+      "Illustrative Visualization",
+      "Physical Visualization",
+      "Interaction",
+      "Volume Visualization"
+    ],
+    "PubsCited": 45.0
+  },
+  "Categorical Colormap Optimization with Visualization Case Studies": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599214",
+    "FirstPage": 871.0,
+    "LastPage": 880.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Hui Fang",
+      "Simon J. Walton",
+      "E. Delahaye",
+      "J. Harris",
+      "D. A. Storchak",
+      "Min Chen 0001"
+    ],
+    "AuthorAffiliation": [
+      "University of Oxford and International Seismological Centre",
+      "University of Oxford, UK",
+      "International Seismological Centre, UK",
+      "International Seismological Centre, UK",
+      "International Seismological Centre, UK",
+      "University of Oxford, UK"
+    ],
+    "AuthorKeywords": [
+      "London tube map",
+      "Color",
+      "categorical colormap",
+      "optimization",
+      "seismological data visualization"
+    ],
+    "PubsCited": 53.0
+  },
+  "Hybrid Tactile/Tangible Interaction for 3D Data Exploration": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599217",
+    "FirstPage": 881.0,
+    "LastPage": 890.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Lonni Besançon",
+      "Paul Issartel",
+      "Mehdi Ammi",
+      "Tobias Isenberg 0001"
+    ],
+    "AuthorAffiliation": [
+      "Inria Saclay, Univ. Paris Saclay, France",
+      "Univ. Paris Saclay, France",
+      "Limsi/CNRS, France",
+      "Inria, France"
+    ],
+    "AuthorKeywords": [
+      "3D data visualization",
+      "Interaction",
+      "tactile input",
+      "tangible input"
+    ],
+    "PubsCited": 89.0
+  },
+  "VizItCards: A Card-Based Toolkit for Infovis Design Education": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599338",
+    "FirstPage": 561.0,
+    "LastPage": 570.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Shiqing He",
+      "Eytan Adar"
+    ],
+    "AuthorAffiliation": [
+      "School of Information at the University of Michigan",
+      "School of Information at the University of Michigan"
+    ],
+    "AuthorKeywords": [
+      "information visualization education",
+      "peer learning",
+      "toolkit",
+      "card",
+      "design workshop"
+    ],
+    "PubsCited": 69.0
+  },
+  "VisMatchmaker: Cooperation of the User and the Computer in Centralized Matching Adjustment": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599378",
+    "FirstPage": 231.0,
+    "LastPage": 240.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Po-Ming Law",
+      "Wenchao Wu",
+      "Yixian Zheng",
+      "Huamin Qu"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology"
+    ],
+    "AuthorKeywords": [
+      "Centralized matching",
+      "matching visualization",
+      "interaction techniques",
+      "visual analytics"
+    ],
+    "PubsCited": 32.0
+  },
+  "Supporting visual exploration for multiple users in large display environments": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883506",
+    "FirstPage": 1.0,
+    "LastPage": 10.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Sriram Karthik Badam",
+      "Fereshteh Amini",
+      "Niklas Elmqvist",
+      "Pourang Irani"
+    ],
+    "AuthorAffiliation": [
+      "University of Maryland, College Park, USA",
+      "University of Manitoba, Winnipeg, Canada",
+      "University of Maryland, College Park, USA",
+      "University of Manitoba, Winnipeg, Canada"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 41.0
+  },
+  "DocuCompass: Effective exploration of document landscapes": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883507",
+    "FirstPage": 11.0,
+    "LastPage": 20.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Florian Heimerl",
+      "Markus John",
+      "Qi Han 0006",
+      "Steffen Koch",
+      "Thomas Ertl"
+    ],
+    "AuthorAffiliation": [
+      ""
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 54.0
+  },
+  "C2A: Crowd consensus analytics for virtual colonoscopy": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883508",
+    "FirstPage": 21.0,
+    "LastPage": 30.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Ji Hwan Park",
+      "Saad Nadeem",
+      "Seyedkoosha Mirhosseini",
+      "Arie E. Kaufman"
+    ],
+    "AuthorAffiliation": [
+      "Stony Brook University, United States of America",
+      "Stony Brook University, United States of America",
+      "Stony Brook University, United States of America",
+      "Stony Brook University, United States of America"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 39.0
+  },
+  "The DataSpace for HIV vaccine studies": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883509",
+    "FirstPage": 31.0,
+    "LastPage": 40.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "David McColgin",
+      "Paul Hoover",
+      "Mark Igra"
+    ],
+    "AuthorAffiliation": [
+      "LabKey Software, United States of America",
+      "LabKey Software, United States of America",
+      "LabKey Software, United States of America"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 18.0
+  },
+  "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883510",
+    "FirstPage": 41.0,
+    "LastPage": 50.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Siming Chen 0001",
+      "Shuai Chen 0001",
+      "Zhenhuang Wang",
+      "Jie Liang 0004",
+      "Xiaoru Yuan",
+      "Nan Cao",
+      "Yadong Wu"
+    ],
+    "AuthorAffiliation": [
+      "Key Laboratory of Machine Perception (Ministry of Education), Peking University, China",
+      "Key Laboratory of Machine Perception (Ministry of Education), Peking University, China",
+      "Key Laboratory of Machine Perception (Ministry of Education), Peking University, China",
+      "Faculty of Engineer and Information Technology, The University of Technology, Sydney, Australia",
+      "Key Laboratory of Machine Perception (Ministry of Education), Peking University, China",
+      "New York University, Shanghai, China",
+      "Southwest University of Science and Technology, China"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 52.0
+  },
+  "How ideas flow across multiple social groups": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883511",
+    "FirstPage": 51.0,
+    "LastPage": 60.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Xiting Wang",
+      "Shixia Liu",
+      "Yang Chen",
+      "Tai-Quan Peng",
+      "Jing Su",
+      "Jing Yang",
+      "Baining Guo"
+    ],
+    "AuthorAffiliation": [
+      "School of Software, Tsinghua University, China",
+      "School of Software, Tsinghua University, China",
+      "School of Software, Tsinghua University, China",
+      "Michigan State University, United States of America",
+      "Tsinghua University, China",
+      "UNCC, United States of America",
+      "Microsoft Research, United States of America"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 56.0
+  },
+  "EventAction: Visual analytics for temporal event sequence recommendation": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883512",
+    "FirstPage": 61.0,
+    "LastPage": 70.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Fan Du",
+      "Catherine Plaisant",
+      "Neil Spring",
+      "Ben Shneiderman"
+    ],
+    "AuthorAffiliation": [
+      "University of Maryland, United States of America",
+      "University of Maryland, United States of America",
+      "University of Maryland, United States of America",
+      "University of Maryland, United States of America"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 45.0
+  },
+  "SocialBrands: Visual analysis of public perceptions of brands on social media": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883513",
+    "FirstPage": 71.0,
+    "LastPage": 80.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Xiaotong Liu",
+      "Anbang Xu",
+      "Liang Gou",
+      "Haibin Liu",
+      "Rama Akkiraju",
+      "Han-Wei Shen"
+    ],
+    "AuthorAffiliation": [
+      "Ohio State University, United States of America",
+      "IBM Research, United States of America",
+      "Visa Research, United States of America",
+      "IBM Research, United States of America",
+      "IBM Research, United States of America",
+      "Ohio State University, United States of America"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 42.0
+  },
+  "DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883514",
+    "FirstPage": 81.0,
+    "LastPage": 90.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Jing Xia",
+      "Wei Chen 0001",
+      "Yumeng Hou",
+      "Wanqi Hu",
+      "Xinxin Huang",
+      "David S. Ebert"
+    ],
+    "AuthorAffiliation": [
+      "State Key Lab of CAD&amp",
+      "CG, Zhejiang University, China",
+      "State Key Lab of CAD&amp",
+      "CG, Zhejiang University, China",
+      "State Key Lab of CAD&amp",
+      "CG, Zhejiang University, China",
+      "State Key Lab of CAD&amp",
+      "CG, Zhejiang University, China",
+      "State Key Lab of CAD&amp",
+      "CG, Zhejiang University, China",
+      "Purdue University, United States of America"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 35.0
+  },
+  "SenseMap: Supporting browser-based online sensemaking through analytic provenance": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883515",
+    "FirstPage": 91.0,
+    "LastPage": 100.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Phong H. Nguyen",
+      "Kai Xu 0003",
+      "Andy Bardill",
+      "Betul Salman",
+      "Kate Herd",
+      "B. L. William Wong"
+    ],
+    "AuthorAffiliation": [
+      "Middlesex University, London, UK",
+      "Middlesex University, London, UK",
+      "Middlesex University, London, UK",
+      "Middlesex University, London, UK",
+      "Middlesex University, London, UK",
+      "Middlesex University, London, UK"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 41.0
+  },
+  "PorosityAnalyzer: Visual Analysis and Evaluation of Segmentation Pipelines to Determine the Porosity in Fiber-Reinforced Polymers": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883516",
+    "FirstPage": 101.0,
+    "LastPage": 110.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Johannes Weissenböck",
+      "Artem Amirkhanov",
+      "M. Eduard Gröller",
+      "Johann Kastner",
+      "Christoph Heinzl"
+    ],
+    "AuthorAffiliation": [
+      "University of Applied Sciences, Upper Austria, Wels, Austria",
+      "University of Applied Sciences, Upper Austria, Wels, Austria",
+      "TU Wien, Vienna, Austria",
+      "University of Applied Sciences, Upper Austria, Wels, Austria",
+      "University of Applied Sciences, Upper Austria, Wels, Austria"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 33.0
+  },
+  "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883517",
+    "FirstPage": 111.0,
+    "LastPage": 120.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Yuanzhe Chen",
+      "Qing Chen 0001",
+      "Mingqian Zhao",
+      "Sebastien Boyer",
+      "Kalyan Veeramachaneni",
+      "Huamin Qu"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology, China",
+      "Hong Kong University of Science and Technology, China",
+      "Hong Kong University of Science and Technology, China",
+      "Massachusetts Institute of Technology, United States of America",
+      "Massachusetts Institute of Technology, United States of America",
+      "Hong Kong University of Science and Technology, China"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 41.0
+  },
+  "Shape Grammar Extraction for Efficient Query-by-Sketch Pattern Matching in Long Time Series": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883518",
+    "FirstPage": 121.0,
+    "LastPage": 130.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Prithiviraj K. Muthumanickam",
+      "Katerina Vrotsou",
+      "Matthew Cooper 0001",
+      "Jimmy Johansson"
+    ],
+    "AuthorAffiliation": [
+      "Link&#x00F6",
+      "ping University, Sweden",
+      "Link&#x00F6",
+      "ping University, Sweden",
+      "Link&#x00F6",
+      "ping University, Sweden",
+      "Link&#x00F6",
+      "ping University, Sweden"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 55.0
+  },
+  "The semantics of sketch: Flexibility in visual query systems for time series data": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883519",
+    "FirstPage": 131.0,
+    "LastPage": 140.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Michael Correll",
+      "Michael Gleicher"
+    ],
+    "AuthorAffiliation": [
+      "University of Washington, United States of America",
+      "University of Wisconsin-Madison, United States of America"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 35.0
+  },
+  "Visual analysis and coding of data-rich user behavior": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883520",
+    "FirstPage": 141.0,
+    "LastPage": 150.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Tanja Blascheck",
+      "Fabian Beck 0001",
+      "Sebastian Baltes",
+      "Thomas Ertl",
+      "Daniel Weiskopf"
+    ],
+    "AuthorAffiliation": [
+      "University of Stuttgart, Germany",
+      "University of Stuttgart, Germany",
+      "University of Trier, Germany",
+      "University of Stuttgart, Germany",
+      "University of Stuttgart, Germany"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 58.0
+  },
+  "Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598430",
+    "FirstPage": 901.0,
+    "LastPage": 910.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Daniel Jönsson",
+      "Anders Ynnerman"
+    ],
+    "AuthorAffiliation": [
+      "Linköping University, Nörrköping, Sweden",
+      "Linköping University, Nörrköping, Sweden"
+    ],
+    "AuthorKeywords": [
+      "Volume rendering",
+      "photon mapping",
+      "global illumination",
+      "participating media"
+    ],
+    "PubsCited": 45.0
+  },
+  "A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598479",
+    "FirstPage": 51.0,
+    "LastPage": 60.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Cong Xie",
+      "Wen Zhong",
+      "Klaus Mueller"
+    ],
+    "AuthorAffiliation": [
+      "Computer Science Department, Stony Brook University",
+      "Computer Science Department, Stony Brook University",
+      "Computer Science Department, Stony Brook University"
+    ],
+    "AuthorKeywords": [
+      "Parallel Coordinates",
+      "Joint Distribution Reconstruction",
+      "Solution Space",
+      "High-dimensional Data",
+      "Multivariate Data"
+    ],
+    "PubsCited": 35.0
+  },
+  "The Attraction Effect in Information Visualization": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598594",
+    "FirstPage": 471.0,
+    "LastPage": 480.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Evanthia Dimara",
+      "Anastasia Bezerianos",
+      "Pierre Dragicevic"
+    ],
+    "AuthorAffiliation": [
+      "Inria and Universit&#x00E9",
+      " Paris-Saclay",
+      "Inria, Univ Paris-Sud &#x0026",
+      " CNRS (LRI)Universit&#x00E9",
+      " Paris-Saclay",
+      "Inria and Universit&#x00E9",
+      " Paris-Saclay"
+    ],
+    "AuthorKeywords": [
+      "cognitive bias",
+      "Information visualization",
+      "decision-making",
+      "decoy effect",
+      "attraction effect",
+      "asymmetric dominance effect"
+    ],
+    "PubsCited": 61.0
+  },
+  "In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598604",
+    "FirstPage": 811.0,
+    "LastPage": 820.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Soumya Dutta",
+      "Chun-Ming Chen",
+      "Gregory Heinlein",
+      "Han-Wei Shen",
+      "Jen-Ping Chen"
+    ],
+    "AuthorAffiliation": [
+      "The Department of Computer Science and Engineering, GRAVITY research group, The Ohio State University",
+      "The Department of Computer Science and Engineering, GRAVITY research group, The Ohio State University",
+      "The Department of Mechanical and Aerospace Engineering, The Ohio State University",
+      "The Department of Computer Science and Engineering, GRAVITY research group, The Ohio State University",
+      "The Department of Mechanical and Aerospace Engineering, The Ohio State University"
+    ],
+    "AuthorKeywords": [
+      "In situ analysis",
+      "rotating stall analysis",
+      "Gaussian mixture model",
+      "incremental distribution modeling",
+      "feature analysis",
+      "high performance computing",
+      "collaborative development"
+    ],
+    "PubsCited": 52.0
+  },
+  "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598664",
+    "FirstPage": 291.0,
+    "LastPage": 300.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Panpan Xu",
+      "Honghui Mei",
+      "Ren Liu",
+      "Wei Chen 0001"
+    ],
+    "AuthorAffiliation": [
+      "Bosch Research North America",
+      "Zhejiang University",
+      "Bosch Research North America",
+      "Zhejiang University"
+    ],
+    "AuthorKeywords": [
+      "Temporal Data",
+      "Mareys Graph",
+      "Visual Analytics",
+      "Manufacturing",
+      "Smart Factory",
+      "Connected Industry",
+      "Industry 4.0"
+    ],
+    "PubsCited": 36.0
+  },
+  "An Analysis of Machine- and Human-Analytics in Classification": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598829",
+    "FirstPage": 71.0,
+    "LastPage": 80.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Gary K. L. Tam",
+      "Vivek Kothari",
+      "Min Chen"
+    ],
+    "AuthorAffiliation": [
+      "Swansea University",
+      "University of Oxford",
+      "University of Oxford"
+    ],
+    "AuthorKeywords": [
+      "information theory",
+      "Visual analytics",
+      "classification",
+      "decision tree",
+      "model",
+      "facial expression",
+      "visualization image"
+    ],
+    "PubsCited": 51.0
+  },
+  "Map LineUps: Effects of spatial structure on graphical inference": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598862",
+    "FirstPage": 391.0,
+    "LastPage": 400.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Roger Beecham",
+      "Jason Dykes",
+      "Wouter Meulemans",
+      "Aidan Slingsby",
+      "Cagatay Turkay",
+      "Jo Wood"
+    ],
+    "AuthorAffiliation": [
+      "giCentre, City University London",
+      "giCentre, City University London",
+      "giCentre, City University London",
+      "giCentre, City University London",
+      "giCentre, City University London",
+      "giCentre, City University London"
+    ],
+    "AuthorKeywords": [
+      "Graphical inference",
+      "spatial autocorrelation",
+      "just noticeable difference",
+      "geovisualization",
+      "statistical significance"
+    ],
+    "PubsCited": 20.0
+  },
+  "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598885",
+    "FirstPage": 411.0,
+    "LastPage": 420.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Yalong Yang 0001",
+      "Tim Dwyer",
+      "Sarah Goodwin",
+      "Kim Marriott"
+    ],
+    "AuthorAffiliation": [
+      "Monash University, Data61, CSIRO, Victoria",
+      "Monash University",
+      "Monash University",
+      "Monash University, Data61, CSIRO, Victoria"
+    ],
+    "AuthorKeywords": [
+      "Flow Maps",
+      "Matrix Visualisation",
+      "Cartographic Information Visualisation"
+    ],
+    "PubsCited": 39.0
+  },
+  "Jacobi Fiber Surfaces for Bivariate Reeb Space Computation": {
+    "Conference": "SciVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599017",
+    "FirstPage": 960.0,
+    "LastPage": 969.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Julien Tierny",
+      "Hamish A. Carr"
+    ],
+    "AuthorAffiliation": [
+      "Sorbonne Universites, UPMC UnivParis06, CNRS, LIP6 UMR 7606, France",
+      "University of Leeds"
+    ],
+    "AuthorKeywords": [
+      "Topological data analysis",
+      "multivariate data",
+      "data segmentation"
+    ],
+    "PubsCited": 48.0
+  },
+  "Vega-Lite: A Grammar of Interactive Graphics": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599030",
+    "FirstPage": 341.0,
+    "LastPage": 350.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Arvind Satyanarayan",
+      "Dominik Moritz",
+      "Kanit Wongsuphasawat",
+      "Jeffrey Heer"
+    ],
+    "AuthorAffiliation": [
+      "Stanford University",
+      "University of Washington",
+      "University of Washington",
+      "University of Washington"
+    ],
+    "AuthorKeywords": [
+      "Information visualization",
+      "interaction",
+      "systems",
+      "toolkits",
+      "declarative specification"
+    ],
+    "PubsCited": 31.0
+  }
+}

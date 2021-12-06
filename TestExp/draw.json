@@ -1,0 +1,209 @@
+{
+  "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598415",
+    "FirstPage": 211.0,
+    "LastPage": 220.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Quan Li",
+      "Peng Xu",
+      "Yeukyin Chan",
+      "Yun Wang 0012",
+      "Zhipeng Wang",
+      "Huamin Qu",
+      "Xiaojuan Ma"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "NetEase, Inc.",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "China Academy of Art",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology"
+    ],
+    "AuthorKeywords": [
+      "Game play data visualization",
+      "visual knowledge discovery",
+      "visual knowledge representation",
+      "and game reconstruction"
+    ],
+    "PubsCited": 41.0
+  },
+  "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598432",
+    "FirstPage": 1.0,
+    "LastPage": 10.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Dongyu Liu",
+      "Di Weng",
+      "Yuhong Li",
+      "Jie Bao 0003",
+      "Yu Zheng 0004",
+      "Huamin Qu",
+      "Yingcai Wu"
+    ],
+    "AuthorAffiliation": [
+      "Zhejiang UniversityHong Kong University of Science and Technology",
+      "State Key Lab of CAD & CGZhejiang University",
+      "University of Macau",
+      "Microsoft Research, Beijing, China",
+      "Microsoft Research, Beijing, China",
+      "Hong Kong University of Science and Technology",
+      "State Key Lab of CAD & CGZhejiang University"
+    ],
+    "AuthorKeywords": [
+      "optimal billboard locations",
+      "taxi trajectory",
+      "visual analytics",
+      "comparative analysis"
+    ],
+    "PubsCited": 51.0
+  },
+  "Visual Analysis of MOOC Forums with iForum": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598444",
+    "FirstPage": 201.0,
+    "LastPage": 210.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Siwei Fu",
+      "Jian Zhao 0010",
+      "Weiwei Cui",
+      "Huamin Qu"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "Autodesk Research",
+      "Microsoft Research",
+      "Hong Kong University of Science and Technology"
+    ],
+    "AuthorKeywords": [
+      "Discussion forum",
+      "MOOC",
+      "temporal visualization",
+      "visual analytics"
+    ],
+    "PubsCited": 40.0
+  },
+  "NameClarifier: A Visual Analytics System for Author Name Disambiguation": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598465",
+    "FirstPage": 141.0,
+    "LastPage": 150.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Qiaomu Shen",
+      "Tongshuang Wu",
+      "Haiyan Yang",
+      "Yanhong Wu",
+      "Huamin Qu",
+      "Weiwei Cui"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Microsoft Research"
+    ],
+    "AuthorKeywords": [
+      "Name disambiguation",
+      "analytical reasoning"
+    ],
+    "PubsCited": 41.0
+  },
+  "Evaluation of Graph Sampling: A Visualization Perspective": {
+    "Conference": "InfoVis",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2598867",
+    "FirstPage": 401.0,
+    "LastPage": 410.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Yanhong Wu",
+      "Nan Cao",
+      "Daniel Archambault",
+      "Qiaomu Shen",
+      "Huamin Qu",
+      "Weiwei Cui"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "New York University, Shanghai",
+      "Swansea University",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Microsoft Research Asia"
+    ],
+    "AuthorKeywords": [
+      "Graph visualization",
+      "graph sampling",
+      "empirical evaluation"
+    ],
+    "PubsCited": 52.0
+  },
+  "VisMatchmaker: Cooperation of the User and the Computer in Centralized Matching Adjustment": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/TVCG.2016.2599378",
+    "FirstPage": 231.0,
+    "LastPage": 240.0,
+    "PaperType": "J",
+    "AuthorNames": [
+      "Po-Ming Law",
+      "Wenchao Wu",
+      "Yixian Zheng",
+      "Huamin Qu"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology"
+    ],
+    "AuthorKeywords": [
+      "Centralized matching",
+      "matching visualization",
+      "interaction techniques",
+      "visual analytics"
+    ],
+    "PubsCited": 32.0
+  },
+  "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction": {
+    "Conference": "VAST",
+    "Year": "2016",
+    "Link": "http://dx.doi.org/10.1109/VAST.2016.7883517",
+    "FirstPage": 111.0,
+    "LastPage": 120.0,
+    "PaperType": "C",
+    "AuthorNames": [
+      "Yuanzhe Chen",
+      "Qing Chen 0001",
+      "Mingqian Zhao",
+      "Sebastien Boyer",
+      "Kalyan Veeramachaneni",
+      "Huamin Qu"
+    ],
+    "AuthorAffiliation": [
+      "Hong Kong University of Science and Technology, China",
+      "Hong Kong University of Science and Technology, China",
+      "Hong Kong University of Science and Technology, China",
+      "Massachusetts Institute of Technology, United States of America",
+      "Massachusetts Institute of Technology, United States of America",
+      "Hong Kong University of Science and Technology, China"
+    ],
+    "AuthorKeywords": [
+      ""
+    ],
+    "PubsCited": 41.0
+  }
+}

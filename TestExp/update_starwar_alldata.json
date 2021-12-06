@@ -1,0 +1,1270 @@
+{
+  "links": [
+    {
+      "source": "Ke Xu",
+      "value": 3,
+      "target": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "source": "Yun Wang 0012",
+      "value": 3,
+      "target": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "source": "Leni Yang",
+      "value": 3,
+      "target": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "source": "Yifang Wang 0001",
+      "value": 3,
+      "target": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "source": "Bo Qiao",
+      "value": 3,
+      "target": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "source": "Si Qin",
+      "value": 3,
+      "target": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "source": "Yong Xu",
+      "value": 3,
+      "target": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "source": "Haidong Zhang",
+      "value": 3,
+      "target": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "source": "Yong Wang 0021",
+      "value": 3,
+      "target": "DeepDrawing: A Deep Learning Approach to Graph Drawing"
+    },
+    {
+      "source": "Zhihua Jin",
+      "value": 3,
+      "target": "DeepDrawing: A Deep Learning Approach to Graph Drawing"
+    },
+    {
+      "source": "Qianwen Wang",
+      "value": 3,
+      "target": "DeepDrawing: A Deep Learning Approach to Graph Drawing"
+    },
+    {
+      "source": "Weiwei Cui",
+      "value": 3,
+      "target": "DeepDrawing: A Deep Learning Approach to Graph Drawing"
+    },
+    {
+      "source": "Tengfei Ma",
+      "value": 3,
+      "target": "DeepDrawing: A Deep Learning Approach to Graph Drawing"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "DeepDrawing: A Deep Learning Approach to Graph Drawing"
+    },
+    {
+      "source": "Haipeng Zeng",
+      "value": 3,
+      "target": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos"
+    },
+    {
+      "source": "Xingbo Wang",
+      "value": 3,
+      "target": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos"
+    },
+    {
+      "source": "Aoyu Wu",
+      "value": 3,
+      "target": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos"
+    },
+    {
+      "source": "Yong Wang 0021",
+      "value": 3,
+      "target": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos"
+    },
+    {
+      "source": "Quan Li",
+      "value": 3,
+      "target": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos"
+    },
+    {
+      "source": "Alex Endert",
+      "value": 3,
+      "target": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos"
+    },
+    {
+      "source": "Zhutian Chen",
+      "value": 3,
+      "target": "LassoNet: Deep Lasso-Selection of 3D Point Clouds"
+    },
+    {
+      "source": "Wei Zeng 0004",
+      "value": 3,
+      "target": "LassoNet: Deep Lasso-Selection of 3D Point Clouds"
+    },
+    {
+      "source": "Zhiguang Yang",
+      "value": 3,
+      "target": "LassoNet: Deep Lasso-Selection of 3D Point Clouds"
+    },
+    {
+      "source": "Lingyun Yu",
+      "value": 3,
+      "target": "LassoNet: Deep Lasso-Selection of 3D Point Clouds"
+    },
+    {
+      "source": "Chi-Wing Fu",
+      "value": 3,
+      "target": "LassoNet: Deep Lasso-Selection of 3D Point Clouds"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "LassoNet: Deep Lasso-Selection of 3D Point Clouds"
+    },
+    {
+      "source": "Dong Sun 0001",
+      "value": 3,
+      "target": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "source": "Renfei Huang",
+      "value": 3,
+      "target": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "source": "Yuanzhe Chen",
+      "value": 3,
+      "target": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "source": "Yong Wang 0021",
+      "value": 3,
+      "target": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "source": "Jia Zeng",
+      "value": 3,
+      "target": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "source": "Mingxuan Yuan",
+      "value": 3,
+      "target": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "source": "Ting-Chuen Pong",
+      "value": 3,
+      "target": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "source": "Yao Ming",
+      "value": 3,
+      "target": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "source": "Panpan Xu",
+      "value": 3,
+      "target": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "source": "Furui Cheng",
+      "value": 3,
+      "target": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "source": "Ren Liu",
+      "value": 3,
+      "target": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "source": "Xuanwu Yue",
+      "value": 3,
+      "target": "sPortfolio: Stratified Visual Analysis of Stock Portfolios"
+    },
+    {
+      "source": "Jiaxin Bai",
+      "value": 3,
+      "target": "sPortfolio: Stratified Visual Analysis of Stock Portfolios"
+    },
+    {
+      "source": "Qinhan Liu",
+      "value": 3,
+      "target": "sPortfolio: Stratified Visual Analysis of Stock Portfolios"
+    },
+    {
+      "source": "Yiyang Tang",
+      "value": 3,
+      "target": "sPortfolio: Stratified Visual Analysis of Stock Portfolios"
+    },
+    {
+      "source": "Abishek Puri",
+      "value": 3,
+      "target": "sPortfolio: Stratified Visual Analysis of Stock Portfolios"
+    },
+    {
+      "source": "Ke Li",
+      "value": 3,
+      "target": "sPortfolio: Stratified Visual Analysis of Stock Portfolios"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "sPortfolio: Stratified Visual Analysis of Stock Portfolios"
+    },
+    {
+      "source": "Zhutian Chen",
+      "value": 3,
+      "target": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline"
+    },
+    {
+      "source": "Yun Wang 0012",
+      "value": 3,
+      "target": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline"
+    },
+    {
+      "source": "Qianwen Wang",
+      "value": 3,
+      "target": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline"
+    },
+    {
+      "source": "Yong Wang 0021",
+      "value": 3,
+      "target": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline"
+    },
+    {
+      "source": "Furui Cheng",
+      "value": 3,
+      "target": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models"
+    },
+    {
+      "source": "Yao Ming",
+      "value": 3,
+      "target": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models"
+    },
+    {
+      "source": "Qianwen Wang",
+      "value": 3,
+      "target": "HypoML: Visual Analysis for Hypothesis-based Evaluation of Machine Learning Models"
+    },
+    {
+      "source": "William Alexander",
+      "value": 3,
+      "target": "HypoML: Visual Analysis for Hypothesis-based Evaluation of Machine Learning Models"
+    },
+    {
+      "source": "Jack Pegg",
+      "value": 3,
+      "target": "HypoML: Visual Analysis for Hypothesis-based Evaluation of Machine Learning Models"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "HypoML: Visual Analysis for Hypothesis-based Evaluation of Machine Learning Models"
+    },
+    {
+      "source": "Min Chen 0001",
+      "value": 3,
+      "target": "HypoML: Visual Analysis for Hypothesis-based Evaluation of Machine Learning Models"
+    },
+    {
+      "source": "Aoyu Wu",
+      "value": 3,
+      "target": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework"
+    },
+    {
+      "source": "Wai Tong",
+      "value": 3,
+      "target": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework"
+    },
+    {
+      "source": "Tim Dwyer",
+      "value": 3,
+      "target": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework"
+    },
+    {
+      "source": "Bongshin Lee",
+      "value": 3,
+      "target": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework"
+    },
+    {
+      "source": "Petra Isenberg",
+      "value": 3,
+      "target": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework"
+    },
+    {
+      "source": "Meng Xia",
+      "value": 3,
+      "target": "QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design"
+    },
+    {
+      "source": "Reshika Palaniyappan Velumani",
+      "value": 3,
+      "target": "QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design"
+    },
+    {
+      "source": "Yong Wang 0021",
+      "value": 3,
+      "target": "QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design"
+    },
+    {
+      "source": "Xiaojuan Ma",
+      "value": 3,
+      "target": "QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design"
+    },
+    {
+      "source": "Yating Lin",
+      "value": 3,
+      "target": "TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups"
+    },
+    {
+      "source": "Kamkwai Wong",
+      "value": 3,
+      "target": "TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups"
+    },
+    {
+      "source": "Yong Wang 0021",
+      "value": 3,
+      "target": "TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups"
+    },
+    {
+      "source": "Rong Zhang",
+      "value": 3,
+      "target": "TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups"
+    },
+    {
+      "source": "Bo Dong",
+      "value": 3,
+      "target": "TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups"
+    },
+    {
+      "source": "Qinghua Zheng",
+      "value": 3,
+      "target": "TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups"
+    },
+    {
+      "source": "Zezheng Feng",
+      "value": 3,
+      "target": "Topology Density Map for Urban Data Visualization and Analysis"
+    },
+    {
+      "source": "Haotian Li 0001",
+      "value": 3,
+      "target": "Topology Density Map for Urban Data Visualization and Analysis"
+    },
+    {
+      "source": "Wei Zeng 0004",
+      "value": 3,
+      "target": "Topology Density Map for Urban Data Visualization and Analysis"
+    },
+    {
+      "source": "Shuang-Hua Yang",
+      "value": 3,
+      "target": "Topology Density Map for Urban Data Visualization and Analysis"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "Topology Density Map for Urban Data Visualization and Analysis"
+    },
+    {
+      "source": "Qianwen Wang",
+      "value": 3,
+      "target": "Visual Analysis of Discrimination in Machine Learning"
+    },
+    {
+      "source": "Zhenhua Xu",
+      "value": 3,
+      "target": "Visual Analysis of Discrimination in Machine Learning"
+    },
+    {
+      "source": "Zhutian Chen",
+      "value": 3,
+      "target": "Visual Analysis of Discrimination in Machine Learning"
+    },
+    {
+      "source": "Yong Wang 0021",
+      "value": 3,
+      "target": "Visual Analysis of Discrimination in Machine Learning"
+    },
+    {
+      "source": "Shixia Liu",
+      "value": 3,
+      "target": "Visual Analysis of Discrimination in Machine Learning"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "Visual Analysis of Discrimination in Machine Learning"
+    },
+    {
+      "source": "Xinhuan Shu",
+      "value": 3,
+      "target": "What Makes a Data-GIF Understandable?"
+    },
+    {
+      "source": "Aoyu Wu",
+      "value": 3,
+      "target": "What Makes a Data-GIF Understandable?"
+    },
+    {
+      "source": "Junxiu Tang",
+      "value": 3,
+      "target": "What Makes a Data-GIF Understandable?"
+    },
+    {
+      "source": "Benjamin Bach",
+      "value": 3,
+      "target": "What Makes a Data-GIF Understandable?"
+    },
+    {
+      "source": "Yingcai Wu",
+      "value": 3,
+      "target": "What Makes a Data-GIF Understandable?"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "What Makes a Data-GIF Understandable?"
+    }
+  ],
+  "nodes": [
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Ke Xu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yun Wang 0012"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Leni Yang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yifang Wang 0001"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Bo Qiao"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Si Qin"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yong Xu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Haidong Zhang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "DeepDrawing: A Deep Learning Approach to Graph Drawing"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yong Wang 0021"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Zhihua Jin"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Qianwen Wang"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Weiwei Cui"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Tengfei Ma"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Haipeng Zeng"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Xingbo Wang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Aoyu Wu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yong Wang 0021"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Quan Li"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Alex Endert"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "LassoNet: Deep Lasso-Selection of 3D Point Clouds"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Zhutian Chen"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Wei Zeng 0004"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Zhiguang Yang"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Lingyun Yu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Chi-Wing Fu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Dong Sun 0001"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Renfei Huang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yuanzhe Chen"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yong Wang 0021"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Jia Zeng"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Mingxuan Yuan"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Ting-Chuen Pong"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "ProtoSteer: Steering Deep Sequence Model with Prototypes"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yao Ming"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Panpan Xu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Furui Cheng"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Ren Liu"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "sPortfolio: Stratified Visual Analysis of Stock Portfolios"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Xuanwu Yue"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Jiaxin Bai"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Qinhan Liu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yiyang Tang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Abishek Puri"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Ke Li"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Zhutian Chen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yun Wang 0012"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Qianwen Wang"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yong Wang 0021"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Furui Cheng"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yao Ming"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "HypoML: Visual Analysis for Hypothesis-based Evaluation of Machine Learning Models"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Qianwen Wang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "William Alexander"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Jack Pegg"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Min Chen 0001"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Aoyu Wu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Wai Tong"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Tim Dwyer"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Bongshin Lee"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Petra Isenberg"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Meng Xia"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Reshika Palaniyappan Velumani"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yong Wang 0021"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Xiaojuan Ma"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Groups"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yating Lin"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Kamkwai Wong"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yong Wang 0021"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Rong Zhang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Bo Dong"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Qinghua Zheng"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "Topology Density Map for Urban Data Visualization and Analysis"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Zezheng Feng"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Haotian Li 0001"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Wei Zeng 0004"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Shuang-Hua Yang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "Visual Analysis of Discrimination in Machine Learning"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Qianwen Wang"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Zhenhua Xu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Zhutian Chen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yong Wang 0021"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Shixia Liu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 15,
+      "id": "What Makes a Data-GIF Understandable?"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Xinhuan Shu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Aoyu Wu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Junxiu Tang"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Benjamin Bach"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Yingcai Wu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 5,
+      "id": "Huamin Qu"
+    }
+  ]
+}

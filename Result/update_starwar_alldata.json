@@ -1,0 +1,7279 @@
+{
+  "links": [
+    {
+      "source": "Bilal Alsallakh",
+      "value": 3,
+      "target": "PowerSet: A Comprehensive Visualization of Set Intersections"
+    },
+    {
+      "source": "Liu Ren",
+      "value": 3,
+      "target": "PowerSet: A Comprehensive Visualization of Set Intersections"
+    },
+    {
+      "source": "Faisal Taher",
+      "value": 3,
+      "target": "Investigating the Use of a Dynamic Physical Bar Chart for Data Exploration and Presentation"
+    },
+    {
+      "source": "Yvonne Jansen",
+      "value": 3,
+      "target": "Investigating the Use of a Dynamic Physical Bar Chart for Data Exploration and Presentation"
+    },
+    {
+      "source": "Jonathan Woodruff",
+      "value": 3,
+      "target": "Investigating the Use of a Dynamic Physical Bar Chart for Data Exploration and Presentation"
+    },
+    {
+      "source": "John Hardy",
+      "value": 3,
+      "target": "Investigating the Use of a Dynamic Physical Bar Chart for Data Exploration and Presentation"
+    },
+    {
+      "source": "Kasper Hornbæk",
+      "value": 3,
+      "target": "Investigating the Use of a Dynamic Physical Bar Chart for Data Exploration and Presentation"
+    },
+    {
+      "source": "Jason Alexander",
+      "value": 3,
+      "target": "Investigating the Use of a Dynamic Physical Bar Chart for Data Exploration and Presentation"
+    },
+    {
+      "source": "Michail Schwab",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "Hendrik Strobelt",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "James Tompkin",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "Colin Fredericks",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "Connor Huff",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "Dana Higgins",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "Anton Strezhnev",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "Mayya Komisarchik",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "Gary King",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "Hanspeter Pfister",
+      "value": 3,
+      "target": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "source": "Yifan Zhang",
+      "value": 3,
+      "target": "Quantifying the Visual Impact of Classification Boundaries in Choropleth Maps"
+    },
+    {
+      "source": "Ross Maciejewski",
+      "value": 3,
+      "target": "Quantifying the Visual Impact of Classification Boundaries in Choropleth Maps"
+    },
+    {
+      "source": "Wouter Meulemans",
+      "value": 3,
+      "target": "Small Multiples with Gaps"
+    },
+    {
+      "source": "Jason Dykes",
+      "value": 3,
+      "target": "Small Multiples with Gaps"
+    },
+    {
+      "source": "Aidan Slingsby",
+      "value": 3,
+      "target": "Small Multiples with Gaps"
+    },
+    {
+      "source": "Cagatay Turkay",
+      "value": 3,
+      "target": "Small Multiples with Gaps"
+    },
+    {
+      "source": "Jo Wood",
+      "value": 3,
+      "target": "Small Multiples with Gaps"
+    },
+    {
+      "source": "Mona Hosseinkhani Loorak",
+      "value": 3,
+      "target": "Exploring the Possibilities of Embedding Heterogeneous Data Attributes in Familiar Visualizations"
+    },
+    {
+      "source": "Charles Perin",
+      "value": 3,
+      "target": "Exploring the Possibilities of Embedding Heterogeneous Data Attributes in Familiar Visualizations"
+    },
+    {
+      "source": "Christopher Collins",
+      "value": 3,
+      "target": "Exploring the Possibilities of Embedding Heterogeneous Data Attributes in Familiar Visualizations"
+    },
+    {
+      "source": "Sheelagh Carpendale",
+      "value": 3,
+      "target": "Exploring the Possibilities of Embedding Heterogeneous Data Attributes in Familiar Visualizations"
+    },
+    {
+      "source": "Kasper Dinkla",
+      "value": 3,
+      "target": "Screenit: Visual Analysis of Cellular Screens"
+    },
+    {
+      "source": "Hendrik Strobelt",
+      "value": 3,
+      "target": "Screenit: Visual Analysis of Cellular Screens"
+    },
+    {
+      "source": "Bryan Genest",
+      "value": 3,
+      "target": "Screenit: Visual Analysis of Cellular Screens"
+    },
+    {
+      "source": "Stephan Reiling",
+      "value": 3,
+      "target": "Screenit: Visual Analysis of Cellular Screens"
+    },
+    {
+      "source": "Mark Borowsky",
+      "value": 3,
+      "target": "Screenit: Visual Analysis of Cellular Screens"
+    },
+    {
+      "source": "Hanspeter Pfister",
+      "value": 3,
+      "target": "Screenit: Visual Analysis of Cellular Screens"
+    },
+    {
+      "source": "Anzu Hakone",
+      "value": 3,
+      "target": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "source": "Lane Harrison",
+      "value": 3,
+      "target": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "source": "Alvitta Ottley",
+      "value": 3,
+      "target": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "source": "Nathan Winters",
+      "value": 3,
+      "target": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "source": "Caitlin Gutheil",
+      "value": 3,
+      "target": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "source": "Paul K. J. Han",
+      "value": 3,
+      "target": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "source": "Remco Chang",
+      "value": 3,
+      "target": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "source": "Stephan Pajer",
+      "value": 3,
+      "target": "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making"
+    },
+    {
+      "source": "Marc Streit",
+      "value": 3,
+      "target": "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making"
+    },
+    {
+      "source": "Thomas Torsney-Weir",
+      "value": 3,
+      "target": "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making"
+    },
+    {
+      "source": "Florian Spechtenhauser",
+      "value": 3,
+      "target": "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making"
+    },
+    {
+      "source": "Torsten Möller",
+      "value": 3,
+      "target": "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making"
+    },
+    {
+      "source": "Harald Piringer",
+      "value": 3,
+      "target": "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making"
+    },
+    {
+      "source": "Mengdie Hu",
+      "value": 3,
+      "target": "Visualizing Social Media Content with SentenTree"
+    },
+    {
+      "source": "Krist Wongsuphasawat",
+      "value": 3,
+      "target": "Visualizing Social Media Content with SentenTree"
+    },
+    {
+      "source": "John Stasko",
+      "value": 3,
+      "target": "Visualizing Social Media Content with SentenTree"
+    },
+    {
+      "source": "Rafael Veras",
+      "value": 3,
+      "target": "Optimizing Hierarchical Visualizations with the Minimum Description Length Principle"
+    },
+    {
+      "source": "Christopher Collins",
+      "value": 3,
+      "target": "Optimizing Hierarchical Visualizations with the Minimum Description Length Principle"
+    },
+    {
+      "source": "Clemens Arbesser",
+      "value": 3,
+      "target": "Visplause: Visual Data Quality Assessment of Many Time Series Using Plausibility Checks"
+    },
+    {
+      "source": "Florian Spechtenhauser",
+      "value": 3,
+      "target": "Visplause: Visual Data Quality Assessment of Many Time Series Using Plausibility Checks"
+    },
+    {
+      "source": "Thomas Mühlbacher",
+      "value": 3,
+      "target": "Visplause: Visual Data Quality Assessment of Many Time Series Using Plausibility Checks"
+    },
+    {
+      "source": "Harald Piringer",
+      "value": 3,
+      "target": "Visplause: Visual Data Quality Assessment of Many Time Series Using Plausibility Checks"
+    },
+    {
+      "source": "Evanthia Dimara",
+      "value": 3,
+      "target": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "source": "Anastasia Bezerianos",
+      "value": 3,
+      "target": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "source": "Pierre Dragicevic",
+      "value": 3,
+      "target": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "source": "Wesley Willett",
+      "value": 3,
+      "target": "Embedded Data Representations"
+    },
+    {
+      "source": "Yvonne Jansen",
+      "value": 3,
+      "target": "Embedded Data Representations"
+    },
+    {
+      "source": "Pierre Dragicevic",
+      "value": 3,
+      "target": "Embedded Data Representations"
+    },
+    {
+      "source": "Alex Bigelow",
+      "value": 3,
+      "target": "Iterating between Tools to Create and Edit Visualizations"
+    },
+    {
+      "source": "Steven Drucker",
+      "value": 3,
+      "target": "Iterating between Tools to Create and Edit Visualizations"
+    },
+    {
+      "source": "Danyel Fisher",
+      "value": 3,
+      "target": "Iterating between Tools to Create and Edit Visualizations"
+    },
+    {
+      "source": "Miriah Meyer",
+      "value": 3,
+      "target": "Iterating between Tools to Create and Edit Visualizations"
+    },
+    {
+      "source": "Michael Correll",
+      "value": 3,
+      "target": "Surprise! Bayesian Weighting for De-Biasing Thematic Maps"
+    },
+    {
+      "source": "Jeffrey Heer",
+      "value": 3,
+      "target": "Surprise! Bayesian Weighting for De-Biasing Thematic Maps"
+    },
+    {
+      "source": "Goethem Arthur Van",
+      "value": 3,
+      "target": "Multi-Granular Trend Detection for Time-Series Analysis"
+    },
+    {
+      "source": "Frank Staals",
+      "value": 3,
+      "target": "Multi-Granular Trend Detection for Time-Series Analysis"
+    },
+    {
+      "source": "Maarten Löffler",
+      "value": 3,
+      "target": "Multi-Granular Trend Detection for Time-Series Analysis"
+    },
+    {
+      "source": "Jason Dykes",
+      "value": 3,
+      "target": "Multi-Granular Trend Detection for Time-Series Analysis"
+    },
+    {
+      "source": "Bettina Speckmann",
+      "value": 3,
+      "target": "Multi-Granular Trend Detection for Time-Series Analysis"
+    },
+    {
+      "source": "Nam Wook Kim",
+      "value": 3,
+      "target": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "source": "Eston Schweickart",
+      "value": 3,
+      "target": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "source": "Zhicheng Liu",
+      "value": 3,
+      "target": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "source": "Mira Dontcheva",
+      "value": 3,
+      "target": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "source": "Wilmot Li",
+      "value": 3,
+      "target": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "source": "Jovan Popovic",
+      "value": 3,
+      "target": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "source": "Hanspeter Pfister",
+      "value": 3,
+      "target": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "source": "Cícero A. L. Pahins",
+      "value": 3,
+      "target": "Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data"
+    },
+    {
+      "source": "Sean A. Stephens",
+      "value": 3,
+      "target": "Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data"
+    },
+    {
+      "source": "Carlos Scheidegger",
+      "value": 3,
+      "target": "Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data"
+    },
+    {
+      "source": "João L. D. Comba",
+      "value": 3,
+      "target": "Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data"
+    },
+    {
+      "source": "Fereshteh Amini",
+      "value": 3,
+      "target": "Authoring Data-Driven Videos with DataClips"
+    },
+    {
+      "source": "Nathalie Henry Riche",
+      "value": 3,
+      "target": "Authoring Data-Driven Videos with DataClips"
+    },
+    {
+      "source": "Bongshin Lee",
+      "value": 3,
+      "target": "Authoring Data-Driven Videos with DataClips"
+    },
+    {
+      "source": "Andres Monroy-Hernandez",
+      "value": 3,
+      "target": "Authoring Data-Driven Videos with DataClips"
+    },
+    {
+      "source": "Pourang Irani",
+      "value": 3,
+      "target": "Authoring Data-Driven Videos with DataClips"
+    },
+    {
+      "source": "Matthew Berger",
+      "value": 3,
+      "target": "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
+    },
+    {
+      "source": "Katherine McDonough",
+      "value": 3,
+      "target": "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
+    },
+    {
+      "source": "Lee M. Seversky",
+      "value": 3,
+      "target": "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
+    },
+    {
+      "source": "Zhe Wang",
+      "value": 3,
+      "target": "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets"
+    },
+    {
+      "source": "Nivan Ferreira",
+      "value": 3,
+      "target": "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets"
+    },
+    {
+      "source": "Youhao Wei",
+      "value": 3,
+      "target": "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets"
+    },
+    {
+      "source": "Aarthy Sankari Bhaskar",
+      "value": 3,
+      "target": "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets"
+    },
+    {
+      "source": "Carlos Scheidegger",
+      "value": 3,
+      "target": "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets"
+    },
+    {
+      "source": "Bahador Saket",
+      "value": 3,
+      "target": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "source": "Hannah Kim",
+      "value": 3,
+      "target": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "source": "Eli T. Brown",
+      "value": 3,
+      "target": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "source": "Alex Endert",
+      "value": 3,
+      "target": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "source": "Roger Beecham",
+      "value": 3,
+      "target": "Map LineUps: Effects of spatial structure on graphical inference"
+    },
+    {
+      "source": "Jason Dykes",
+      "value": 3,
+      "target": "Map LineUps: Effects of spatial structure on graphical inference"
+    },
+    {
+      "source": "Wouter Meulemans",
+      "value": 3,
+      "target": "Map LineUps: Effects of spatial structure on graphical inference"
+    },
+    {
+      "source": "Aidan Slingsby",
+      "value": 3,
+      "target": "Map LineUps: Effects of spatial structure on graphical inference"
+    },
+    {
+      "source": "Cagatay Turkay",
+      "value": 3,
+      "target": "Map LineUps: Effects of spatial structure on graphical inference"
+    },
+    {
+      "source": "Jo Wood",
+      "value": 3,
+      "target": "Map LineUps: Effects of spatial structure on graphical inference"
+    },
+    {
+      "source": "Yanhong Wu",
+      "value": 3,
+      "target": "Evaluation of Graph Sampling: A Visualization Perspective"
+    },
+    {
+      "source": "Nan Cao",
+      "value": 3,
+      "target": "Evaluation of Graph Sampling: A Visualization Perspective"
+    },
+    {
+      "source": "Daniel Archambault",
+      "value": 3,
+      "target": "Evaluation of Graph Sampling: A Visualization Perspective"
+    },
+    {
+      "source": "Qiaomu Shen",
+      "value": 3,
+      "target": "Evaluation of Graph Sampling: A Visualization Perspective"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "Evaluation of Graph Sampling: A Visualization Perspective"
+    },
+    {
+      "source": "Weiwei Cui",
+      "value": 3,
+      "target": "Evaluation of Graph Sampling: A Visualization Perspective"
+    },
+    {
+      "source": "Chris Bryan",
+      "value": 3,
+      "target": "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement"
+    },
+    {
+      "source": "Kwan-Liu Ma",
+      "value": 3,
+      "target": "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement"
+    },
+    {
+      "source": "Jonathan Woodring",
+      "value": 3,
+      "target": "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement"
+    },
+    {
+      "source": "Yalong Yang",
+      "value": 3,
+      "target": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "source": "Tim Dwyer",
+      "value": 3,
+      "target": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "source": "Sarah Goodwin",
+      "value": 3,
+      "target": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "source": "Kim Marriott",
+      "value": 3,
+      "target": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "source": "Rudolf Netzel",
+      "value": 3,
+      "target": "An Evaluation of Visual Search Support in Maps"
+    },
+    {
+      "source": "Marcel Hlawatsch",
+      "value": 3,
+      "target": "An Evaluation of Visual Search Support in Maps"
+    },
+    {
+      "source": "Michael Burch",
+      "value": 3,
+      "target": "An Evaluation of Visual Search Support in Maps"
+    },
+    {
+      "source": "Sanjeev Balakrishnan",
+      "value": 3,
+      "target": "An Evaluation of Visual Search Support in Maps"
+    },
+    {
+      "source": "Hansjörg Schmauder",
+      "value": 3,
+      "target": "An Evaluation of Visual Search Support in Maps"
+    },
+    {
+      "source": "Daniel Weiskopf",
+      "value": 3,
+      "target": "An Evaluation of Visual Search Support in Maps"
+    },
+    {
+      "source": "Connor C. Gramazio",
+      "value": 3,
+      "target": "Colorgorical: Creating discriminable and preferable color palettes for information visualization"
+    },
+    {
+      "source": "David H. Laidlaw",
+      "value": 3,
+      "target": "Colorgorical: Creating discriminable and preferable color palettes for information visualization"
+    },
+    {
+      "source": "Karen B. Schloss",
+      "value": 3,
+      "target": "Colorgorical: Creating discriminable and preferable color palettes for information visualization"
+    },
+    {
+      "source": "Christoph Schulz",
+      "value": 3,
+      "target": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "source": "Arlind Nocaj",
+      "value": 3,
+      "target": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "source": "Jochen Goertler",
+      "value": 3,
+      "target": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "source": "Oliver Deussen",
+      "value": 3,
+      "target": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "source": "Ulrik Brandes",
+      "value": 3,
+      "target": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "source": "Daniel Weiskopf",
+      "value": 3,
+      "target": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "source": "Sukwon Lee",
+      "value": 3,
+      "target": "VLAT: Development of a Visualization Literacy Assessment Test"
+    },
+    {
+      "source": "Sung-Hee Kim",
+      "value": 3,
+      "target": "VLAT: Development of a Visualization Literacy Assessment Test"
+    },
+    {
+      "source": "Bum Chul Kwon",
+      "value": 3,
+      "target": "VLAT: Development of a Visualization Literacy Assessment Test"
+    },
+    {
+      "source": "Benjamin Bach",
+      "value": 3,
+      "target": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "source": "Nathalie Henry Riche",
+      "value": 3,
+      "target": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "source": "Christophe Hurter",
+      "value": 3,
+      "target": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "source": "Kim Marriott",
+      "value": 3,
+      "target": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "source": "Tim Dwyer",
+      "value": 3,
+      "target": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "source": "Arvind Satyanarayan",
+      "value": 3,
+      "target": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "source": "Dominik Moritz",
+      "value": 3,
+      "target": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "source": "Kanit Wongsuphasawat",
+      "value": 3,
+      "target": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "source": "Jeffrey Heer",
+      "value": 3,
+      "target": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "source": "Mi Feng",
+      "value": 3,
+      "target": "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History"
+    },
+    {
+      "source": "Cheng Deng",
+      "value": 3,
+      "target": "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History"
+    },
+    {
+      "source": "Evan M. Peck",
+      "value": 3,
+      "target": "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History"
+    },
+    {
+      "source": "Lane Harrison",
+      "value": 3,
+      "target": "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History"
+    },
+    {
+      "source": "Lace Padilla",
+      "value": 3,
+      "target": "Evaluating the Impact of Binning 2D Scalar Fields"
+    },
+    {
+      "source": "P. Samuel Quinan",
+      "value": 3,
+      "target": "Evaluating the Impact of Binning 2D Scalar Fields"
+    },
+    {
+      "source": "Miriah Meyer",
+      "value": 3,
+      "target": "Evaluating the Impact of Binning 2D Scalar Fields"
+    },
+    {
+      "source": "Sarah H. Creem-Regehr",
+      "value": 3,
+      "target": "Evaluating the Impact of Binning 2D Scalar Fields"
+    },
+    {
+      "source": "Maxime Cordeil",
+      "value": 3,
+      "target": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "source": "Tim Dwyer",
+      "value": 3,
+      "target": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "source": "Karsten Klein",
+      "value": 3,
+      "target": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "source": "Bireswar Laha",
+      "value": 3,
+      "target": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "source": "Kim Marriott",
+      "value": 3,
+      "target": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "source": "Bruce H. Thomas",
+      "value": 3,
+      "target": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "source": "Shiqing He",
+      "value": 3,
+      "target": "VizItCards: A Card-Based Toolkit for Infovis Design Education"
+    },
+    {
+      "source": "Eytan Adar",
+      "value": 3,
+      "target": "VizItCards: A Card-Based Toolkit for Infovis Design Education"
+    },
+    {
+      "source": "Daniel Jönsson",
+      "value": 3,
+      "target": "Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data"
+    },
+    {
+      "source": "Anders Ynnerman",
+      "value": 3,
+      "target": "Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data"
+    },
+    {
+      "source": "Andrew H. Stevens",
+      "value": 3,
+      "target": "Hairy Slices: Evaluating the Perceptual Effectiveness of Cutting Plane Glyphs for 3D Vector Fields"
+    },
+    {
+      "source": "Thomas Butkiewicz",
+      "value": 3,
+      "target": "Hairy Slices: Evaluating the Perceptual Effectiveness of Cutting Plane Glyphs for 3D Vector Fields"
+    },
+    {
+      "source": "Colin Ware",
+      "value": 3,
+      "target": "Hairy Slices: Evaluating the Perceptual Effectiveness of Cutting Plane Glyphs for 3D Vector Fields"
+    },
+    {
+      "source": "Fabio Miranda",
+      "value": 3,
+      "target": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "source": "Harish Doraiswamy",
+      "value": 3,
+      "target": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "source": "Marcos Lage",
+      "value": 3,
+      "target": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "source": "Kai Zhao",
+      "value": 3,
+      "target": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "source": "Bruno Gonçalves",
+      "value": 3,
+      "target": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "source": "Luc Wilson",
+      "value": 3,
+      "target": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "source": "Mondrian Hsieh",
+      "value": 3,
+      "target": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "source": "Cláudio T. Silva",
+      "value": 3,
+      "target": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "source": "Andreas J. Lind",
+      "value": 3,
+      "target": "Comparing Cross-Sections and 3D Renderings for Surface Matching Tasks Using Physical Ground Truths"
+    },
+    {
+      "source": "Stefan Bruckner",
+      "value": 3,
+      "target": "Comparing Cross-Sections and 3D Renderings for Surface Matching Tasks Using Physical Ground Truths"
+    },
+    {
+      "source": "Kai Lawonn",
+      "value": 3,
+      "target": "Visualization and Extraction of Carvings for Heritage Conservation"
+    },
+    {
+      "source": "Erik Trostmann",
+      "value": 3,
+      "target": "Visualization and Extraction of Carvings for Heritage Conservation"
+    },
+    {
+      "source": "Bernhard Preim",
+      "value": 3,
+      "target": "Visualization and Extraction of Carvings for Heritage Conservation"
+    },
+    {
+      "source": "Klaus Hildebrandt",
+      "value": 3,
+      "target": "Visualization and Extraction of Carvings for Heritage Conservation"
+    },
+    {
+      "source": "Soumya Dutta",
+      "value": 3,
+      "target": "In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations"
+    },
+    {
+      "source": "Chun-Ming Chen",
+      "value": 3,
+      "target": "In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations"
+    },
+    {
+      "source": "Gregory Heinlein",
+      "value": 3,
+      "target": "In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations"
+    },
+    {
+      "source": "Han-Wei Shen",
+      "value": 3,
+      "target": "In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations"
+    },
+    {
+      "source": "Jen-Ping Chen",
+      "value": 3,
+      "target": "In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations"
+    },
+    {
+      "source": "Chris Bryan",
+      "value": 3,
+      "target": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution"
+    },
+    {
+      "source": "Gregory Guterman",
+      "value": 3,
+      "target": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution"
+    },
+    {
+      "source": "Kwan-Liu Ma",
+      "value": 3,
+      "target": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution"
+    },
+    {
+      "source": "Harris Lewin",
+      "value": 3,
+      "target": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution"
+    },
+    {
+      "source": "Denis Larkin",
+      "value": 3,
+      "target": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution"
+    },
+    {
+      "source": "Jaebum Kim",
+      "value": 3,
+      "target": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution"
+    },
+    {
+      "source": "Jian Ma",
+      "value": 3,
+      "target": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution"
+    },
+    {
+      "source": "Marta Farré",
+      "value": 3,
+      "target": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution"
+    },
+    {
+      "source": "Jiaxi Hu",
+      "value": 3,
+      "target": "Visualizing Shape Deformations with Variation of Geometric Spectrum"
+    },
+    {
+      "source": "Hajar Hamidian",
+      "value": 3,
+      "target": "Visualizing Shape Deformations with Variation of Geometric Spectrum"
+    },
+    {
+      "source": "Zichun Zhong",
+      "value": 3,
+      "target": "Visualizing Shape Deformations with Variation of Geometric Spectrum"
+    },
+    {
+      "source": "Jing Hua",
+      "value": 3,
+      "target": "Visualizing Shape Deformations with Variation of Geometric Spectrum"
+    },
+    {
+      "source": "Saad Nadeem",
+      "value": 3,
+      "target": "Corresponding Supine and Prone Colon Visualization Using Eigenfunction Analysis and Fold Modeling"
+    },
+    {
+      "source": "Joseph Marino",
+      "value": 3,
+      "target": "Corresponding Supine and Prone Colon Visualization Using Eigenfunction Analysis and Fold Modeling"
+    },
+    {
+      "source": "Xianfeng Gu",
+      "value": 3,
+      "target": "Corresponding Supine and Prone Colon Visualization Using Eigenfunction Analysis and Fold Modeling"
+    },
+    {
+      "source": "Arie Kaufman",
+      "value": 3,
+      "target": "Corresponding Supine and Prone Colon Visualization Using Eigenfunction Analysis and Fold Modeling"
+    },
+    {
+      "source": "Monique Meuschke",
+      "value": 3,
+      "target": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "source": "Samuel Voss",
+      "value": 3,
+      "target": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "source": "Oliver Beuing",
+      "value": 3,
+      "target": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "source": "Bernhard Preim",
+      "value": 3,
+      "target": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "source": "Kai Lawonn",
+      "value": 3,
+      "target": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "source": "Michael Krone",
+      "value": 3,
+      "target": "Molecular Surface Maps"
+    },
+    {
+      "source": "Florian Frieß",
+      "value": 3,
+      "target": "Molecular Surface Maps"
+    },
+    {
+      "source": "Katrin Scharnowski",
+      "value": 3,
+      "target": "Molecular Surface Maps"
+    },
+    {
+      "source": "Guido Reina",
+      "value": 3,
+      "target": "Molecular Surface Maps"
+    },
+    {
+      "source": "Silvia Fademrecht",
+      "value": 3,
+      "target": "Molecular Surface Maps"
+    },
+    {
+      "source": "Tobias Kulschewski",
+      "value": 3,
+      "target": "Molecular Surface Maps"
+    },
+    {
+      "source": "Jürgen Pleiss",
+      "value": 3,
+      "target": "Molecular Surface Maps"
+    },
+    {
+      "source": "Thomas Ertl",
+      "value": 3,
+      "target": "Molecular Surface Maps"
+    },
+    {
+      "source": "Pedro Hermosilla",
+      "value": 3,
+      "target": "Physics-Based Visual Characterization of Molecular Interaction Forces"
+    },
+    {
+      "source": "Jorge Estrada",
+      "value": 3,
+      "target": "Physics-Based Visual Characterization of Molecular Interaction Forces"
+    },
+    {
+      "source": "Victor Guallar",
+      "value": 3,
+      "target": "Physics-Based Visual Characterization of Molecular Interaction Forces"
+    },
+    {
+      "source": "Timo Ropinski",
+      "value": 3,
+      "target": "Physics-Based Visual Characterization of Molecular Interaction Forces"
+    },
+    {
+      "source": "Àlvar Vinacua",
+      "value": 3,
+      "target": "Physics-Based Visual Characterization of Molecular Interaction Forces"
+    },
+    {
+      "source": "Pere-Pau Vázquez",
+      "value": 3,
+      "target": "Physics-Based Visual Characterization of Molecular Interaction Forces"
+    },
+    {
+      "source": "Noeska Smit",
+      "value": 3,
+      "target": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "source": "Kai Lawonn",
+      "value": 3,
+      "target": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "source": "Annelot Kraima",
+      "value": 3,
+      "target": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "source": "Marco DeRuiter",
+      "value": 3,
+      "target": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "source": "Hessam Sokooti",
+      "value": 3,
+      "target": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "source": "Stefan Bruckner",
+      "value": 3,
+      "target": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "source": "Elmar Eisemann",
+      "value": 3,
+      "target": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "source": "Anna Vilanova",
+      "value": 3,
+      "target": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "source": "Petra Isenberg",
+      "value": 3,
+      "target": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "source": "Tobias Isenberg",
+      "value": 3,
+      "target": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "source": "Michael Sedlmair",
+      "value": 3,
+      "target": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "source": "Jian Chen",
+      "value": 3,
+      "target": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "source": "Torsten Möller",
+      "value": 3,
+      "target": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "source": "Allan Rocha",
+      "value": 3,
+      "target": "Decal-Maps: Real-Time Layering of Decals on Surfaces for Multivariate Visualization"
+    },
+    {
+      "source": "Usman Alim",
+      "value": 3,
+      "target": "Decal-Maps: Real-Time Layering of Decals on Surfaces for Multivariate Visualization"
+    },
+    {
+      "source": "Julio Daniel Silva",
+      "value": 3,
+      "target": "Decal-Maps: Real-Time Layering of Decals on Surfaces for Multivariate Visualization"
+    },
+    {
+      "source": "Mario Costa Sousa",
+      "value": 3,
+      "target": "Decal-Maps: Real-Time Layering of Decals on Surfaces for Multivariate Visualization"
+    },
+    {
+      "source": "Florian Ferstl",
+      "value": 3,
+      "target": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "source": "Mathias Kanzler",
+      "value": 3,
+      "target": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "source": "Marc Rautenhaus",
+      "value": 3,
+      "target": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "source": "Rüdiger Westermann",
+      "value": 3,
+      "target": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "source": "Ayan Biswas",
+      "value": 3,
+      "target": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "source": "Guang Lin",
+      "value": 3,
+      "target": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "source": "Xiaotong Liu",
+      "value": 3,
+      "target": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "source": "Han-Wei Shen",
+      "value": 3,
+      "target": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "source": "Ivan Kolesár",
+      "value": 3,
+      "target": "A Fractional Cartesian Composition Model for Semi-Spatial Comparative Visualization Design"
+    },
+    {
+      "source": "Stefan Bruckner",
+      "value": 3,
+      "target": "A Fractional Cartesian Composition Model for Semi-Spatial Comparative Visualization Design"
+    },
+    {
+      "source": "Ivan Viola",
+      "value": 3,
+      "target": "A Fractional Cartesian Composition Model for Semi-Spatial Comparative Visualization Design"
+    },
+    {
+      "source": "Helwig Hauser",
+      "value": 3,
+      "target": "A Fractional Cartesian Composition Model for Semi-Spatial Comparative Visualization Design"
+    },
+    {
+      "source": "Tim Gerrits",
+      "value": 3,
+      "target": "Glyphs for General Second-Order 2D and 3D Tensors"
+    },
+    {
+      "source": "Christian Rössl",
+      "value": 3,
+      "target": "Glyphs for General Second-Order 2D and 3D Tensors"
+    },
+    {
+      "source": "Holger Theisel",
+      "value": 3,
+      "target": "Glyphs for General Second-Order 2D and 3D Tensors"
+    },
+    {
+      "source": "Tobias Günther",
+      "value": 3,
+      "target": "Backward Finite-Time Lyapunov Exponents in Inertial Flows"
+    },
+    {
+      "source": "Holger Theisel",
+      "value": 3,
+      "target": "Backward Finite-Time Lyapunov Exponents in Inertial Flows"
+    },
+    {
+      "source": "Julien Tierny",
+      "value": 3,
+      "target": "Jacobi Fiber Surfaces for Bivariate Reeb Space Computation"
+    },
+    {
+      "source": "Hamish Carr",
+      "value": 3,
+      "target": "Jacobi Fiber Surfaces for Bivariate Reeb Space Computation"
+    },
+    {
+      "source": "Antoni Sagristà",
+      "value": 3,
+      "target": "Topological Analysis of Inertial Dynamics"
+    },
+    {
+      "source": "Stefan Jordan",
+      "value": 3,
+      "target": "Topological Analysis of Inertial Dynamics"
+    },
+    {
+      "source": "Andreas Just",
+      "value": 3,
+      "target": "Topological Analysis of Inertial Dynamics"
+    },
+    {
+      "source": "Fabio Dias",
+      "value": 3,
+      "target": "Topological Analysis of Inertial Dynamics"
+    },
+    {
+      "source": "Luis Gustavo Nonato",
+      "value": 3,
+      "target": "Topological Analysis of Inertial Dynamics"
+    },
+    {
+      "source": "Filip Sadlo",
+      "value": 3,
+      "target": "Topological Analysis of Inertial Dynamics"
+    },
+    {
+      "source": "Kui Wu",
+      "value": 3,
+      "target": "Direct Multifield Volume Ray Casting of Fiber Surfaces"
+    },
+    {
+      "source": "Aaron Knoll",
+      "value": 3,
+      "target": "Direct Multifield Volume Ray Casting of Fiber Surfaces"
+    },
+    {
+      "source": "Benjamin J Isaac",
+      "value": 3,
+      "target": "Direct Multifield Volume Ray Casting of Fiber Surfaces"
+    },
+    {
+      "source": "Hamish Carr",
+      "value": 3,
+      "target": "Direct Multifield Volume Ray Casting of Fiber Surfaces"
+    },
+    {
+      "source": "Valerio Pascucci",
+      "value": 3,
+      "target": "Direct Multifield Volume Ray Casting of Fiber Surfaces"
+    },
+    {
+      "source": "I Wald",
+      "value": 3,
+      "target": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "source": "GP Johnson",
+      "value": 3,
+      "target": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "source": "J Amstutz",
+      "value": 3,
+      "target": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "source": "C Brownlee",
+      "value": 3,
+      "target": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "source": "A Knoll",
+      "value": 3,
+      "target": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "source": "J Jeffers",
+      "value": 3,
+      "target": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "source": "J Günther",
+      "value": 3,
+      "target": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "source": "P Navratil",
+      "value": 3,
+      "target": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "source": "Steffen Frey",
+      "value": 3,
+      "target": "Progressive Direct Volume-to-Volume Transformation"
+    },
+    {
+      "source": "Thomas Ertl",
+      "value": 3,
+      "target": "Progressive Direct Volume-to-Volume Transformation"
+    },
+    {
+      "source": "Jens Schneider",
+      "value": 3,
+      "target": "A Versatile and Efficient GPU Data Structure for Spatial Indexing"
+    },
+    {
+      "source": "Peter Rautek",
+      "value": 3,
+      "target": "A Versatile and Efficient GPU Data Structure for Spatial Indexing"
+    },
+    {
+      "source": "Xin Tong",
+      "value": 3,
+      "target": "GlyphLens: View-Dependent Occlusion Management in the Interactive Glyph Visualization"
+    },
+    {
+      "source": "Cheng Li",
+      "value": 3,
+      "target": "GlyphLens: View-Dependent Occlusion Management in the Interactive Glyph Visualization"
+    },
+    {
+      "source": "Han-Wei Shen",
+      "value": 3,
+      "target": "GlyphLens: View-Dependent Occlusion Management in the Interactive Glyph Visualization"
+    },
+    {
+      "source": "Sergej Stoppel",
+      "value": 3,
+      "target": "Vol²velle: Printable Interactive Volume Visualization"
+    },
+    {
+      "source": "Stefan Bruckner",
+      "value": 3,
+      "target": "Vol²velle: Printable Interactive Volume Visualization"
+    },
+    {
+      "source": "H. Fang",
+      "value": 3,
+      "target": "Categorical Colormap Optimization with Visualization Case Studies"
+    },
+    {
+      "source": "S. Walton",
+      "value": 3,
+      "target": "Categorical Colormap Optimization with Visualization Case Studies"
+    },
+    {
+      "source": "E. Delahaye",
+      "value": 3,
+      "target": "Categorical Colormap Optimization with Visualization Case Studies"
+    },
+    {
+      "source": "J. Harris",
+      "value": 3,
+      "target": "Categorical Colormap Optimization with Visualization Case Studies"
+    },
+    {
+      "source": "D. A. Storchak",
+      "value": 3,
+      "target": "Categorical Colormap Optimization with Visualization Case Studies"
+    },
+    {
+      "source": "M. Chen",
+      "value": 3,
+      "target": "Categorical Colormap Optimization with Visualization Case Studies"
+    },
+    {
+      "source": "Lonni Besançon",
+      "value": 3,
+      "target": "Hybrid Tactile/Tangible Interaction for 3D Data Exploration"
+    },
+    {
+      "source": "Paul Issartel",
+      "value": 3,
+      "target": "Hybrid Tactile/Tangible Interaction for 3D Data Exploration"
+    },
+    {
+      "source": "Mehdi Ammi",
+      "value": 3,
+      "target": "Hybrid Tactile/Tangible Interaction for 3D Data Exploration"
+    },
+    {
+      "source": "Tobias Isenberg",
+      "value": 3,
+      "target": "Hybrid Tactile/Tangible Interaction for 3D Data Exploration"
+    },
+    {
+      "source": "Quan Li",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games"
+    },
+    {
+      "source": "Peng Xu",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games"
+    },
+    {
+      "source": "Yeuk Yin Chan",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games"
+    },
+    {
+      "source": "Yun Wang",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games"
+    },
+    {
+      "source": "Zhipeng Wang",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games"
+    },
+    {
+      "source": "Xiaojuan Ma",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games"
+    },
+    {
+      "source": "Shamal Al-Dohuki",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Yingyu Wu",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Farah Kamw",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Jing Yang",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Xin Li",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Ye Zhao",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Xinyue Ye",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Wei Chen",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Chao Ma",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Fei Wang",
+      "value": 3,
+      "target": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "source": "Dongyu Liu",
+      "value": 3,
+      "target": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "source": "Di Weng",
+      "value": 3,
+      "target": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "source": "Yuhong Li",
+      "value": 3,
+      "target": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "source": "Jie Bao",
+      "value": 3,
+      "target": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "source": "Yu Zheng",
+      "value": 3,
+      "target": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "source": "Yingcai Wu",
+      "value": 3,
+      "target": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "source": "Siwei Fu",
+      "value": 3,
+      "target": "Visual Analysis of MOOC Forums with iForum"
+    },
+    {
+      "source": "Jian Zhao",
+      "value": 3,
+      "target": "Visual Analysis of MOOC Forums with iForum"
+    },
+    {
+      "source": "Weiwei Cui",
+      "value": 3,
+      "target": "Visual Analysis of MOOC Forums with iForum"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "Visual Analysis of MOOC Forums with iForum"
+    },
+    {
+      "source": "Minjeong Kim",
+      "value": 3,
+      "target": "TopicLens: Efficient Multi-Level Visual Topic Exploration of Large-Scale Document Collections"
+    },
+    {
+      "source": "Kyeongpil Kang",
+      "value": 3,
+      "target": "TopicLens: Efficient Multi-Level Visual Topic Exploration of Large-Scale Document Collections"
+    },
+    {
+      "source": "Deokgun Park",
+      "value": 3,
+      "target": "TopicLens: Efficient Multi-Level Visual Topic Exploration of Large-Scale Document Collections"
+    },
+    {
+      "source": "Jaegul Choo",
+      "value": 3,
+      "target": "TopicLens: Efficient Multi-Level Visual Topic Exploration of Large-Scale Document Collections"
+    },
+    {
+      "source": "Niklas Elmqvist",
+      "value": 3,
+      "target": "TopicLens: Efficient Multi-Level Visual Topic Exploration of Large-Scale Document Collections"
+    },
+    {
+      "source": "Bum Chul Kwon",
+      "value": 3,
+      "target": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "source": "Hannah Kim",
+      "value": 3,
+      "target": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "source": "Emily Wall",
+      "value": 3,
+      "target": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "source": "Jaegul Choo",
+      "value": 3,
+      "target": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "source": "Haesun Park",
+      "value": 3,
+      "target": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "source": "Alex Endert",
+      "value": 3,
+      "target": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "source": "Cristian Felix",
+      "value": 3,
+      "target": "TextTile: An Interactive Visualization Tool for Seamless Exploratory Analysis of Structured Data and Unstructured Text"
+    },
+    {
+      "source": "Anshul Vikram Pandey",
+      "value": 3,
+      "target": "TextTile: An Interactive Visualization Tool for Seamless Exploratory Analysis of Structured Data and Unstructured Text"
+    },
+    {
+      "source": "Enrico Bertini",
+      "value": 3,
+      "target": "TextTile: An Interactive Visualization Tool for Seamless Exploratory Analysis of Structured Data and Unstructured Text"
+    },
+    {
+      "source": "R. Jordan Crouser",
+      "value": 3,
+      "target": "Toward Theoretical Techniques for Measuring the Use of Human Effort in Visual Analytic Systems"
+    },
+    {
+      "source": "Lyndsey Franklin",
+      "value": 3,
+      "target": "Toward Theoretical Techniques for Measuring the Use of Human Effort in Visual Analytic Systems"
+    },
+    {
+      "source": "Alex Endert",
+      "value": 3,
+      "target": "Toward Theoretical Techniques for Measuring the Use of Human Effort in Visual Analytic Systems"
+    },
+    {
+      "source": "Kris Cook",
+      "value": 3,
+      "target": "Toward Theoretical Techniques for Measuring the Use of Human Effort in Visual Analytic Systems"
+    },
+    {
+      "source": "Ievgeniia Gutenko",
+      "value": 3,
+      "target": "AnaFe: Visual Analytics of Image-derived Temporal Features Focusing on the Spleen"
+    },
+    {
+      "source": "Konstantin Dmitriev",
+      "value": 3,
+      "target": "AnaFe: Visual Analytics of Image-derived Temporal Features Focusing on the Spleen"
+    },
+    {
+      "source": "Arie E. Kaufman",
+      "value": 3,
+      "target": "AnaFe: Visual Analytics of Image-derived Temporal Features Focusing on the Spleen"
+    },
+    {
+      "source": "Matthew A. Barish",
+      "value": 3,
+      "target": "AnaFe: Visual Analytics of Image-derived Temporal Features Focusing on the Spleen"
+    },
+    {
+      "source": "Qiaomu Shen",
+      "value": 3,
+      "target": "NameClarifier: A Visual Analytics System for Author Name Disambiguation"
+    },
+    {
+      "source": "Tongshuang Wu",
+      "value": 3,
+      "target": "NameClarifier: A Visual Analytics System for Author Name Disambiguation"
+    },
+    {
+      "source": "Haiyan Yang",
+      "value": 3,
+      "target": "NameClarifier: A Visual Analytics System for Author Name Disambiguation"
+    },
+    {
+      "source": "Yanhong Wu",
+      "value": 3,
+      "target": "NameClarifier: A Visual Analytics System for Author Name Disambiguation"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "NameClarifier: A Visual Analytics System for Author Name Disambiguation"
+    },
+    {
+      "source": "Weiwei Cui",
+      "value": 3,
+      "target": "NameClarifier: A Visual Analytics System for Author Name Disambiguation"
+    },
+    {
+      "source": "Ali Sarvghad",
+      "value": 3,
+      "target": "Visualizing Dimension Coverage to Support Exploratory Analysis"
+    },
+    {
+      "source": "Melanie Tory",
+      "value": 3,
+      "target": "Visualizing Dimension Coverage to Support Exploratory Analysis"
+    },
+    {
+      "source": "Narges Mahyar",
+      "value": 3,
+      "target": "Visualizing Dimension Coverage to Support Exploratory Analysis"
+    },
+    {
+      "source": "Michael Behrisch",
+      "value": 3,
+      "target": "Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration"
+    },
+    {
+      "source": "Benjamin Bach",
+      "value": 3,
+      "target": "Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration"
+    },
+    {
+      "source": "Michael Hund",
+      "value": 3,
+      "target": "Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration"
+    },
+    {
+      "source": "Michael Delz",
+      "value": 3,
+      "target": "Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration"
+    },
+    {
+      "source": "Laura Von Rüden",
+      "value": 3,
+      "target": "Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration"
+    },
+    {
+      "source": "Jean-Daniel Fekete",
+      "value": 3,
+      "target": "Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration"
+    },
+    {
+      "source": "Tobias Schreck",
+      "value": 3,
+      "target": "Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration"
+    },
+    {
+      "source": "Davide Ceneda",
+      "value": 3,
+      "target": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "source": "Theresia Gschwandtner",
+      "value": 3,
+      "target": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "source": "Thorsten May",
+      "value": 3,
+      "target": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "source": "Silvia Miksch",
+      "value": 3,
+      "target": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "source": "Hans-Jörg Schulz",
+      "value": 3,
+      "target": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "source": "Marc Streit",
+      "value": 3,
+      "target": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "source": "Christian Tominski",
+      "value": 3,
+      "target": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "source": "Michael Glueck",
+      "value": 3,
+      "target": "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations"
+    },
+    {
+      "source": "Alina Gvozdik",
+      "value": 3,
+      "target": "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations"
+    },
+    {
+      "source": "Fanny Chevalier",
+      "value": 3,
+      "target": "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations"
+    },
+    {
+      "source": "Azam Khan",
+      "value": 3,
+      "target": "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations"
+    },
+    {
+      "source": "Michael Brudno",
+      "value": 3,
+      "target": "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations"
+    },
+    {
+      "source": "Daniel Wigdor",
+      "value": 3,
+      "target": "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations"
+    },
+    {
+      "source": "Cagatay Turkay",
+      "value": 3,
+      "target": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis"
+    },
+    {
+      "source": "Erdem Kaya",
+      "value": 3,
+      "target": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis"
+    },
+    {
+      "source": "Selim Balcisoy",
+      "value": 3,
+      "target": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis"
+    },
+    {
+      "source": "Helwig Hauser",
+      "value": 3,
+      "target": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis"
+    },
+    {
+      "source": "Filip Dabek",
+      "value": 3,
+      "target": "A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process"
+    },
+    {
+      "source": "Jesus J Caban",
+      "value": 3,
+      "target": "A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process"
+    },
+    {
+      "source": "Xinsong Yang",
+      "value": 3,
+      "target": "Blockwise Human Brain Network Visual Comparison Using NodeTrix Representation"
+    },
+    {
+      "source": "Lei Shi",
+      "value": 3,
+      "target": "Blockwise Human Brain Network Visual Comparison Using NodeTrix Representation"
+    },
+    {
+      "source": "Madelaine Daianu",
+      "value": 3,
+      "target": "Blockwise Human Brain Network Visual Comparison Using NodeTrix Representation"
+    },
+    {
+      "source": "Hanghang Tong",
+      "value": 3,
+      "target": "Blockwise Human Brain Network Visual Comparison Using NodeTrix Representation"
+    },
+    {
+      "source": "Qingsong Liu",
+      "value": 3,
+      "target": "Blockwise Human Brain Network Visual Comparison Using NodeTrix Representation"
+    },
+    {
+      "source": "Paul Thompson",
+      "value": 3,
+      "target": "Blockwise Human Brain Network Visual Comparison Using NodeTrix Representation"
+    },
+    {
+      "source": "Cong Xie",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections"
+    },
+    {
+      "source": "Wen Zhong",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections"
+    },
+    {
+      "source": "Klaus Mueller",
+      "value": 3,
+      "target": "A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections"
+    },
+    {
+      "source": "Dominik Sacha",
+      "value": 3,
+      "target": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "source": "Leishi Zhang",
+      "value": 3,
+      "target": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "source": "Michael Sedlmair",
+      "value": 3,
+      "target": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "source": "John A. Lee",
+      "value": 3,
+      "target": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "source": "Jaakko Peltonen",
+      "value": 3,
+      "target": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "source": "Daniel Weiskopf",
+      "value": 3,
+      "target": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "source": "Stephen C. North",
+      "value": 3,
+      "target": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "source": "Daniel A. Keim",
+      "value": 3,
+      "target": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "source": "Bowen Yu",
+      "value": 3,
+      "target": "VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model"
+    },
+    {
+      "source": "Cláudio T. Silva",
+      "value": 3,
+      "target": "VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model"
+    },
+    {
+      "source": "Jian Zhao",
+      "value": 3,
+      "target": "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations"
+    },
+    {
+      "source": "Michael Glueck",
+      "value": 3,
+      "target": "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations"
+    },
+    {
+      "source": "Simon Breslav",
+      "value": 3,
+      "target": "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations"
+    },
+    {
+      "source": "Fanny Chevalier",
+      "value": 3,
+      "target": "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations"
+    },
+    {
+      "source": "Azam Khan",
+      "value": 3,
+      "target": "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations"
+    },
+    {
+      "source": "Aritra Dasgupta",
+      "value": 3,
+      "target": "Familiarity Vs Trust: A Comparative Study of Domain Scientists Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "source": "Joon-Yong Lee",
+      "value": 3,
+      "target": "Familiarity Vs Trust: A Comparative Study of Domain Scientists Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "source": "Ryan Wilson",
+      "value": 3,
+      "target": "Familiarity Vs Trust: A Comparative Study of Domain Scientists Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "source": "Robert A. Lafrance",
+      "value": 3,
+      "target": "Familiarity Vs Trust: A Comparative Study of Domain Scientists Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "source": "Nick Cramer",
+      "value": 3,
+      "target": "Familiarity Vs Trust: A Comparative Study of Domain Scientists Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "source": "Kristin Cook",
+      "value": 3,
+      "target": "Familiarity Vs Trust: A Comparative Study of Domain Scientists Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "source": "Samuel Payne",
+      "value": 3,
+      "target": "Familiarity Vs Trust: A Comparative Study of Domain Scientists Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "source": "Sarah Goodwin",
+      "value": 3,
+      "target": "What do Constraint Programming Users Want to See? Exploring the Role of Visualisation in Profiling of Models and Search"
+    },
+    {
+      "source": "Christopher Mears",
+      "value": 3,
+      "target": "What do Constraint Programming Users Want to See? Exploring the Role of Visualisation in Profiling of Models and Search"
+    },
+    {
+      "source": "Tim Dwyer",
+      "value": 3,
+      "target": "What do Constraint Programming Users Want to See? Exploring the Role of Visualisation in Profiling of Models and Search"
+    },
+    {
+      "source": "Maria Garcia de la Banda",
+      "value": 3,
+      "target": "What do Constraint Programming Users Want to See? Exploring the Role of Visualisation in Profiling of Models and Search"
+    },
+    {
+      "source": "Guido Tack",
+      "value": 3,
+      "target": "What do Constraint Programming Users Want to See? Exploring the Role of Visualisation in Profiling of Models and Search"
+    },
+    {
+      "source": "Mark Wallace",
+      "value": 3,
+      "target": "What do Constraint Programming Users Want to See? Exploring the Role of Visualisation in Profiling of Models and Search"
+    },
+    {
+      "source": "Panpan Xu",
+      "value": 3,
+      "target": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "source": "Honghui Mei",
+      "value": 3,
+      "target": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "source": "Liu Ren",
+      "value": 3,
+      "target": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "source": "Wei Chen",
+      "value": 3,
+      "target": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "source": "Kuno Kurzhals",
+      "value": 3,
+      "target": "Visual Analytics for Mobile Eye Tracking"
+    },
+    {
+      "source": "Marcel Hlawatsch",
+      "value": 3,
+      "target": "Visual Analytics for Mobile Eye Tracking"
+    },
+    {
+      "source": "Christof Seeger",
+      "value": 3,
+      "target": "Visual Analytics for Mobile Eye Tracking"
+    },
+    {
+      "source": "Daniel Weiskopf",
+      "value": 3,
+      "target": "Visual Analytics for Mobile Eye Tracking"
+    },
+    {
+      "source": "Hyunjoo Song",
+      "value": 3,
+      "target": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "source": "Jeongjin Lee",
+      "value": 3,
+      "target": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "source": "Tae Jung Kim",
+      "value": 3,
+      "target": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "source": "Kyoung Ho Lee",
+      "value": 3,
+      "target": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "source": "Bohyoung Kim",
+      "value": 3,
+      "target": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "source": "Jinwook Seo",
+      "value": 3,
+      "target": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "source": "Zhicheng Liu",
+      "value": 3,
+      "target": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "source": "Yang Wang",
+      "value": 3,
+      "target": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "source": "Mira Dontcheva",
+      "value": 3,
+      "target": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "source": "Matthew Hoffman",
+      "value": 3,
+      "target": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "source": "Seth Walker",
+      "value": 3,
+      "target": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "source": "Alan Wilson",
+      "value": 3,
+      "target": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "source": "Donghao Ren",
+      "value": 3,
+      "target": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "source": "Saleema Amershi",
+      "value": 3,
+      "target": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "source": "Bongshin Lee",
+      "value": 3,
+      "target": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "source": "Jina Suh",
+      "value": 3,
+      "target": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "source": "Jason D. Williams",
+      "value": 3,
+      "target": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "source": "Gary K. L. Tam",
+      "value": 3,
+      "target": "An Analysis of Machine- and Human-Analytics in Classification"
+    },
+    {
+      "source": "Vivek Kothari",
+      "value": 3,
+      "target": "An Analysis of Machine- and Human-Analytics in Classification"
+    },
+    {
+      "source": "Min Chen",
+      "value": 3,
+      "target": "An Analysis of Machine- and Human-Analytics in Classification"
+    },
+    {
+      "source": "Junpeng Wang",
+      "value": 3,
+      "target": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "source": "Xiaotong Liu",
+      "value": 3,
+      "target": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "source": "Han-Wei Shen",
+      "value": 3,
+      "target": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "source": "Guang Lin",
+      "value": 3,
+      "target": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "source": "Mengchen Liu",
+      "value": 3,
+      "target": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "source": "Jiaxin Shi",
+      "value": 3,
+      "target": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "source": "Zhen Li",
+      "value": 3,
+      "target": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "source": "Chongxuan Li",
+      "value": 3,
+      "target": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "source": "Jun Zhu",
+      "value": 3,
+      "target": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "source": "Shixia Liu",
+      "value": 3,
+      "target": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "source": "Paulo E. Rauber",
+      "value": 3,
+      "target": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "source": "Samuel G. Fadel",
+      "value": 3,
+      "target": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "source": "Alexandre X. Falcão",
+      "value": 3,
+      "target": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "source": "Alexandru C. Telea",
+      "value": 3,
+      "target": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "source": "Po-Ming Law",
+      "value": 3,
+      "target": "VisMatchmaker: Cooperation of the User and the Computer in Centralized Matching Adjustment"
+    },
+    {
+      "source": "Wenchao Wu",
+      "value": 3,
+      "target": "VisMatchmaker: Cooperation of the User and the Computer in Centralized Matching Adjustment"
+    },
+    {
+      "source": "Yixian Zheng",
+      "value": 3,
+      "target": "VisMatchmaker: Cooperation of the User and the Computer in Centralized Matching Adjustment"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "VisMatchmaker: Cooperation of the User and the Computer in Centralized Matching Adjustment"
+    },
+    {
+      "source": "Sriram Karthik Badam",
+      "value": 3,
+      "target": "Supporting visual exploration for multiple users in large display environments"
+    },
+    {
+      "source": "Fereshteh Amini",
+      "value": 3,
+      "target": "Supporting visual exploration for multiple users in large display environments"
+    },
+    {
+      "source": "Niklas Elmqvist",
+      "value": 3,
+      "target": "Supporting visual exploration for multiple users in large display environments"
+    },
+    {
+      "source": "Pourang Irani",
+      "value": 3,
+      "target": "Supporting visual exploration for multiple users in large display environments"
+    },
+    {
+      "source": "Florian Heimerl",
+      "value": 3,
+      "target": "DocuCompass: Effective exploration of document landscapes"
+    },
+    {
+      "source": "Markus John",
+      "value": 3,
+      "target": "DocuCompass: Effective exploration of document landscapes"
+    },
+    {
+      "source": "Qi Han",
+      "value": 3,
+      "target": "DocuCompass: Effective exploration of document landscapes"
+    },
+    {
+      "source": "Steffen Koch",
+      "value": 3,
+      "target": "DocuCompass: Effective exploration of document landscapes"
+    },
+    {
+      "source": "Thomas Ertl",
+      "value": 3,
+      "target": "DocuCompass: Effective exploration of document landscapes"
+    },
+    {
+      "source": "Ji Hwan Park",
+      "value": 3,
+      "target": "C2A: Crowd consensus analytics for virtual colonoscopy"
+    },
+    {
+      "source": "Saad Nadeem",
+      "value": 3,
+      "target": "C2A: Crowd consensus analytics for virtual colonoscopy"
+    },
+    {
+      "source": "Seyedkoosha Mirhosseini",
+      "value": 3,
+      "target": "C2A: Crowd consensus analytics for virtual colonoscopy"
+    },
+    {
+      "source": "Arie Kaufman",
+      "value": 3,
+      "target": "C2A: Crowd consensus analytics for virtual colonoscopy"
+    },
+    {
+      "source": "David McColgin",
+      "value": 3,
+      "target": "The DataSpace for HIV vaccine studies"
+    },
+    {
+      "source": "Paul Hoover",
+      "value": 3,
+      "target": "The DataSpace for HIV vaccine studies"
+    },
+    {
+      "source": "Mark Igra",
+      "value": 3,
+      "target": "The DataSpace for HIV vaccine studies"
+    },
+    {
+      "source": "Siming Chen",
+      "value": 3,
+      "target": "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media"
+    },
+    {
+      "source": "Shuai Chen",
+      "value": 3,
+      "target": "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media"
+    },
+    {
+      "source": "Zhenhuang Wang",
+      "value": 3,
+      "target": "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media"
+    },
+    {
+      "source": "Jie Liang",
+      "value": 3,
+      "target": "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media"
+    },
+    {
+      "source": "Xiaoru Yuan",
+      "value": 3,
+      "target": "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media"
+    },
+    {
+      "source": "Nan Cao",
+      "value": 3,
+      "target": "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media"
+    },
+    {
+      "source": "Yadong Wu",
+      "value": 3,
+      "target": "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media"
+    },
+    {
+      "source": "Xiting Wang",
+      "value": 3,
+      "target": "How ideas flow across multiple social groups"
+    },
+    {
+      "source": "Shixia Liu",
+      "value": 3,
+      "target": "How ideas flow across multiple social groups"
+    },
+    {
+      "source": "Yang Chen",
+      "value": 3,
+      "target": "How ideas flow across multiple social groups"
+    },
+    {
+      "source": "Tai-Quan Peng",
+      "value": 3,
+      "target": "How ideas flow across multiple social groups"
+    },
+    {
+      "source": "Jing Su",
+      "value": 3,
+      "target": "How ideas flow across multiple social groups"
+    },
+    {
+      "source": "Jing Yang",
+      "value": 3,
+      "target": "How ideas flow across multiple social groups"
+    },
+    {
+      "source": "Baining Guo",
+      "value": 3,
+      "target": "How ideas flow across multiple social groups"
+    },
+    {
+      "source": "Fan Du",
+      "value": 3,
+      "target": "EventAction: Visual analytics for temporal event sequence recommendation"
+    },
+    {
+      "source": "Catherine Plaisant",
+      "value": 3,
+      "target": "EventAction: Visual analytics for temporal event sequence recommendation"
+    },
+    {
+      "source": "Neil Spring",
+      "value": 3,
+      "target": "EventAction: Visual analytics for temporal event sequence recommendation"
+    },
+    {
+      "source": "Ben Shneiderman",
+      "value": 3,
+      "target": "EventAction: Visual analytics for temporal event sequence recommendation"
+    },
+    {
+      "source": "Xiaotong Liu",
+      "value": 3,
+      "target": "SocialBrands: Visual analysis of public perceptions of brands on social media"
+    },
+    {
+      "source": "Anbang Xu",
+      "value": 3,
+      "target": "SocialBrands: Visual analysis of public perceptions of brands on social media"
+    },
+    {
+      "source": "Liang Gou",
+      "value": 3,
+      "target": "SocialBrands: Visual analysis of public perceptions of brands on social media"
+    },
+    {
+      "source": "Haibin Liu",
+      "value": 3,
+      "target": "SocialBrands: Visual analysis of public perceptions of brands on social media"
+    },
+    {
+      "source": "Rama Akkiraju",
+      "value": 3,
+      "target": "SocialBrands: Visual analysis of public perceptions of brands on social media"
+    },
+    {
+      "source": "Han-Wei Shen",
+      "value": 3,
+      "target": "SocialBrands: Visual analysis of public perceptions of brands on social media"
+    },
+    {
+      "source": "Jing Xia",
+      "value": 3,
+      "target": "DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection"
+    },
+    {
+      "source": "Wei Chen",
+      "value": 3,
+      "target": "DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection"
+    },
+    {
+      "source": "Yumeng Hou",
+      "value": 3,
+      "target": "DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection"
+    },
+    {
+      "source": "Wanqi Hu",
+      "value": 3,
+      "target": "DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection"
+    },
+    {
+      "source": "Xinxin Huang",
+      "value": 3,
+      "target": "DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection"
+    },
+    {
+      "source": "David S. Ebertk",
+      "value": 3,
+      "target": "DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection"
+    },
+    {
+      "source": "Phong H. Nguyen",
+      "value": 3,
+      "target": "SenseMap: Supporting browser-based online sensemaking through analytic provenance"
+    },
+    {
+      "source": "Kai Xu",
+      "value": 3,
+      "target": "SenseMap: Supporting browser-based online sensemaking through analytic provenance"
+    },
+    {
+      "source": "Andy Bardill",
+      "value": 3,
+      "target": "SenseMap: Supporting browser-based online sensemaking through analytic provenance"
+    },
+    {
+      "source": "Betul Salman",
+      "value": 3,
+      "target": "SenseMap: Supporting browser-based online sensemaking through analytic provenance"
+    },
+    {
+      "source": "Kate Herd",
+      "value": 3,
+      "target": "SenseMap: Supporting browser-based online sensemaking through analytic provenance"
+    },
+    {
+      "source": "B.L. William Wong",
+      "value": 3,
+      "target": "SenseMap: Supporting browser-based online sensemaking through analytic provenance"
+    },
+    {
+      "source": "Johannes Weissenböck",
+      "value": 3,
+      "target": "PorosityAnalyzer: Visual Analysis and Evaluation of Segmentation Pipelines to Determine the Porosity in Fiber-Reinforced Polymers"
+    },
+    {
+      "source": "Artem Amirkhanov",
+      "value": 3,
+      "target": "PorosityAnalyzer: Visual Analysis and Evaluation of Segmentation Pipelines to Determine the Porosity in Fiber-Reinforced Polymers"
+    },
+    {
+      "source": "Eduard Gröller",
+      "value": 3,
+      "target": "PorosityAnalyzer: Visual Analysis and Evaluation of Segmentation Pipelines to Determine the Porosity in Fiber-Reinforced Polymers"
+    },
+    {
+      "source": "Johann Kastner",
+      "value": 3,
+      "target": "PorosityAnalyzer: Visual Analysis and Evaluation of Segmentation Pipelines to Determine the Porosity in Fiber-Reinforced Polymers"
+    },
+    {
+      "source": "Christoph Heinzl",
+      "value": 3,
+      "target": "PorosityAnalyzer: Visual Analysis and Evaluation of Segmentation Pipelines to Determine the Porosity in Fiber-Reinforced Polymers"
+    },
+    {
+      "source": "Yuanzhe Chen",
+      "value": 3,
+      "target": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction"
+    },
+    {
+      "source": "Qing Chen",
+      "value": 3,
+      "target": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction"
+    },
+    {
+      "source": "Mingqian Zhao",
+      "value": 3,
+      "target": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction"
+    },
+    {
+      "source": "Sebastien Boyer",
+      "value": 3,
+      "target": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction"
+    },
+    {
+      "source": "Kalyan Veeramachaneni",
+      "value": 3,
+      "target": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction"
+    },
+    {
+      "source": "Huamin Qu",
+      "value": 3,
+      "target": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction"
+    },
+    {
+      "source": "Prithiviraj K. Muthumanickam",
+      "value": 3,
+      "target": "Shape Grammar Extraction for Efficient Query-by-Sketch Pattern Matching in Long Time Series"
+    },
+    {
+      "source": "Katerina Vrotsou",
+      "value": 3,
+      "target": "Shape Grammar Extraction for Efficient Query-by-Sketch Pattern Matching in Long Time Series"
+    },
+    {
+      "source": "Matthew Cooper",
+      "value": 3,
+      "target": "Shape Grammar Extraction for Efficient Query-by-Sketch Pattern Matching in Long Time Series"
+    },
+    {
+      "source": "Jimmy Johansson",
+      "value": 3,
+      "target": "Shape Grammar Extraction for Efficient Query-by-Sketch Pattern Matching in Long Time Series"
+    },
+    {
+      "source": "Michael Correll",
+      "value": 3,
+      "target": "The semantics of sketch: Flexibility in visual query systems for time series data"
+    },
+    {
+      "source": "Michael Gleicher",
+      "value": 3,
+      "target": "The semantics of sketch: Flexibility in visual query systems for time series data"
+    },
+    {
+      "source": "Tanja Blascheck",
+      "value": 3,
+      "target": "Visual analysis and coding of data-rich user behavior"
+    },
+    {
+      "source": "Fabian Beck",
+      "value": 3,
+      "target": "Visual analysis and coding of data-rich user behavior"
+    },
+    {
+      "source": "Sebastian Baltes",
+      "value": 3,
+      "target": "Visual analysis and coding of data-rich user behavior"
+    },
+    {
+      "source": "Thomas Ertl",
+      "value": 3,
+      "target": "Visual analysis and coding of data-rich user behavior"
+    },
+    {
+      "source": "Daniel Weiskopf",
+      "value": 3,
+      "target": "Visual analysis and coding of data-rich user behavior"
+    }
+  ],
+  "nodes": [
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "PowerSet: A Comprehensive Visualization of Set Intersections"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bilal Alsallakh"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Liu Ren"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Investigating the Use of a Dynamic Physical Bar Chart for Data Exploration and Presentation"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Faisal Taher"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yvonne Jansen"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jonathan Woodruff"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "John Hardy"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kasper Hornbæk"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jason Alexander"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michail Schwab"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hendrik Strobelt"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "James Tompkin"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Colin Fredericks"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Connor Huff"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Dana Higgins"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Anton Strezhnev"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mayya Komisarchik"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Gary King"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hanspeter Pfister"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Quantifying the Visual Impact of Classification Boundaries in Choropleth Maps"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yifan Zhang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ross Maciejewski"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Small Multiples with Gaps"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wouter Meulemans"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jason Dykes"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Aidan Slingsby"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cagatay Turkay"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jo Wood"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Exploring the Possibilities of Embedding Heterogeneous Data Attributes in Familiar Visualizations"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mona Hosseinkhani Loorak"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Charles Perin"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Christopher Collins"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sheelagh Carpendale"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Screenit: Visual Analysis of Cellular Screens"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kasper Dinkla"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hendrik Strobelt"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bryan Genest"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Stephan Reiling"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mark Borowsky"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hanspeter Pfister"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Anzu Hakone"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Lane Harrison"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Alvitta Ottley"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Nathan Winters"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Caitlin Gutheil"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Paul K. J. Han"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Remco Chang"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "WeightLifter: Visual Weight Space Exploration for Multi-Criteria Decision Making"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Stephan Pajer"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Marc Streit"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Thomas Torsney-Weir"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Florian Spechtenhauser"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Torsten Möller"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Harald Piringer"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visualizing Social Media Content with SentenTree"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mengdie Hu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Krist Wongsuphasawat"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "John Stasko"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Optimizing Hierarchical Visualizations with the Minimum Description Length Principle"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Rafael Veras"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Christopher Collins"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visplause: Visual Data Quality Assessment of Many Time Series Using Plausibility Checks"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Clemens Arbesser"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Florian Spechtenhauser"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Thomas Mühlbacher"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Harald Piringer"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "The Attraction Effect in Information Visualization"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Evanthia Dimara"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Anastasia Bezerianos"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Pierre Dragicevic"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Embedded Data Representations"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wesley Willett"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yvonne Jansen"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Pierre Dragicevic"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Iterating between Tools to Create and Edit Visualizations"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Alex Bigelow"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Steven Drucker"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Danyel Fisher"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Miriah Meyer"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Surprise! Bayesian Weighting for De-Biasing Thematic Maps"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Correll"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jeffrey Heer"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Multi-Granular Trend Detection for Time-Series Analysis"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Goethem Arthur Van"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Frank Staals"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Maarten Löffler"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jason Dykes"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bettina Speckmann"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Data-Driven Guides: Supporting Expressive Design for Information Graphics"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Nam Wook Kim"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Eston Schweickart"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Zhicheng Liu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mira Dontcheva"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wilmot Li"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jovan Popovic"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hanspeter Pfister"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cícero A. L. Pahins"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sean A. Stephens"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Carlos Scheidegger"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "João L. D. Comba"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Authoring Data-Driven Videos with DataClips"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Fereshteh Amini"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Nathalie Henry Riche"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bongshin Lee"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Andres Monroy-Hernandez"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Pourang Irani"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Matthew Berger"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Katherine McDonough"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Lee M. Seversky"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Zhe Wang"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Nivan Ferreira"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Youhao Wei"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Aarthy Sankari Bhaskar"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Carlos Scheidegger"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bahador Saket"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hannah Kim"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Eli T. Brown"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Alex Endert"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Map LineUps: Effects of spatial structure on graphical inference"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Roger Beecham"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jason Dykes"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wouter Meulemans"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Aidan Slingsby"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cagatay Turkay"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jo Wood"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Evaluation of Graph Sampling: A Visualization Perspective"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yanhong Wu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Nan Cao"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Daniel Archambault"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Qiaomu Shen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Weiwei Cui"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Temporal Summary Images: An Approach to Narrative Visualization via Interactive Annotation Generation and Placement"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Chris Bryan"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kwan-Liu Ma"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jonathan Woodring"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Many-to-Many Geographically-Embedded Flow Visualisation: An Evaluation"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yalong Yang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tim Dwyer"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sarah Goodwin"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kim Marriott"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "An Evaluation of Visual Search Support in Maps"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Rudolf Netzel"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Marcel Hlawatsch"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Burch"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sanjeev Balakrishnan"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hansjörg Schmauder"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Daniel Weiskopf"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Colorgorical: Creating discriminable and preferable color palettes for information visualization"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Connor C. Gramazio"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "David H. Laidlaw"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Karen B. Schloss"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Probabilistic Graph Layout for Uncertain Network Visualization"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Christoph Schulz"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Arlind Nocaj"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jochen Goertler"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Oliver Deussen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ulrik Brandes"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Daniel Weiskopf"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "VLAT: Development of a Visualization Literacy Assessment Test"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sukwon Lee"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sung-Hee Kim"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bum Chul Kwon"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Benjamin Bach"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Nathalie Henry Riche"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Christophe Hurter"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kim Marriott"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tim Dwyer"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Vega-Lite: A Grammar of Interactive Graphics"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Arvind Satyanarayan"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Dominik Moritz"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kanit Wongsuphasawat"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jeffrey Heer"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mi Feng"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cheng Deng"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Evan M. Peck"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Lane Harrison"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Evaluating the Impact of Binning 2D Scalar Fields"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Lace Padilla"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "P. Samuel Quinan"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Miriah Meyer"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sarah H. Creem-Regehr"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display?"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Maxime Cordeil"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tim Dwyer"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Karsten Klein"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bireswar Laha"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kim Marriott"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bruce H. Thomas"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "VizItCards: A Card-Based Toolkit for Infovis Design Education"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Shiqing He"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Eytan Adar"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Daniel Jönsson"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Anders Ynnerman"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Hairy Slices: Evaluating the Perceptual Effectiveness of Cutting Plane Glyphs for 3D Vector Fields"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Andrew H. Stevens"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Thomas Butkiewicz"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Colin Ware"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Urban Pulse: Capturing the Rhythm of Cities"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Fabio Miranda"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Harish Doraiswamy"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Marcos Lage"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kai Zhao"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bruno Gonçalves"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Luc Wilson"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mondrian Hsieh"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cláudio T. Silva"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Comparing Cross-Sections and 3D Renderings for Surface Matching Tasks Using Physical Ground Truths"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Andreas J. Lind"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Stefan Bruckner"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visualization and Extraction of Carvings for Heritage Conservation"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kai Lawonn"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Erik Trostmann"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bernhard Preim"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Klaus Hildebrandt"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "In Situ Distribution Guided Analysis and Visualization of Transonic Jet Engine Simulations"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Soumya Dutta"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Chun-Ming Chen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Gregory Heinlein"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Han-Wei Shen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jen-Ping Chen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Chris Bryan"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Gregory Guterman"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kwan-Liu Ma"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Harris Lewin"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Denis Larkin"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jaebum Kim"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jian Ma"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Marta Farré"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visualizing Shape Deformations with Variation of Geometric Spectrum"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jiaxi Hu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hajar Hamidian"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Zichun Zhong"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jing Hua"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Corresponding Supine and Prone Colon Visualization Using Eigenfunction Analysis and Fold Modeling"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Saad Nadeem"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Joseph Marino"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xianfeng Gu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Arie Kaufman"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Monique Meuschke"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Samuel Voss"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Oliver Beuing"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bernhard Preim"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kai Lawonn"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Molecular Surface Maps"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Krone"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Florian Frieß"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Katrin Scharnowski"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Guido Reina"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Silvia Fademrecht"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tobias Kulschewski"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jürgen Pleiss"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Thomas Ertl"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Physics-Based Visual Characterization of Molecular Interaction Forces"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Pedro Hermosilla"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jorge Estrada"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Victor Guallar"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Timo Ropinski"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Àlvar Vinacua"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Pere-Pau Vázquez"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "PelVis: Atlas-based Surgical Planning for Oncological Pelvic Surgery"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Noeska Smit"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kai Lawonn"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Annelot Kraima"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Marco DeRuiter"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hessam Sokooti"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Stefan Bruckner"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Elmar Eisemann"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Anna Vilanova"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visualization as Seen through its Research Paper Keywords"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Petra Isenberg"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tobias Isenberg"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Sedlmair"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jian Chen"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Torsten Möller"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Decal-Maps: Real-Time Layering of Decals on Surfaces for Multivariate Visualization"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Allan Rocha"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Usman Alim"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Julio Daniel Silva"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mario Costa Sousa"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Time-Hierarchical Clustering and Visualization of Weather Forecast Ensembles"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Florian Ferstl"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mathias Kanzler"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Marc Rautenhaus"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Rüdiger Westermann"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visualization of Time-Varying Weather Ensembles across Multiple Resolutions"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ayan Biswas"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Guang Lin"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xiaotong Liu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Han-Wei Shen"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "A Fractional Cartesian Composition Model for Semi-Spatial Comparative Visualization Design"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ivan Kolesár"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Stefan Bruckner"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ivan Viola"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Helwig Hauser"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Glyphs for General Second-Order 2D and 3D Tensors"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tim Gerrits"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Christian Rössl"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Holger Theisel"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Backward Finite-Time Lyapunov Exponents in Inertial Flows"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tobias Günther"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Holger Theisel"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Jacobi Fiber Surfaces for Bivariate Reeb Space Computation"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Julien Tierny"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hamish Carr"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Topological Analysis of Inertial Dynamics"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Antoni Sagristà"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Stefan Jordan"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Andreas Just"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Fabio Dias"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Luis Gustavo Nonato"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Filip Sadlo"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Direct Multifield Volume Ray Casting of Fiber Surfaces"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kui Wu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Aaron Knoll"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Benjamin J Isaac"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hamish Carr"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Valerio Pascucci"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "OSPRay - A CPU Ray Tracing Framework for Scientific Visualization"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "I Wald"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "GP Johnson"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "J Amstutz"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "C Brownlee"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "A Knoll"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "J Jeffers"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "J Günther"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "P Navratil"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Progressive Direct Volume-to-Volume Transformation"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Steffen Frey"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Thomas Ertl"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "A Versatile and Efficient GPU Data Structure for Spatial Indexing"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jens Schneider"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Peter Rautek"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "GlyphLens: View-Dependent Occlusion Management in the Interactive Glyph Visualization"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xin Tong"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cheng Li"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Han-Wei Shen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Vol²velle: Printable Interactive Volume Visualization"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sergej Stoppel"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Stefan Bruckner"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Categorical Colormap Optimization with Visualization Case Studies"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "H. Fang"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "S. Walton"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "E. Delahaye"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "J. Harris"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "D. A. Storchak"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "M. Chen"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Hybrid Tactile/Tangible Interaction for 3D Data Exploration"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Lonni Besançon"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Paul Issartel"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mehdi Ammi"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tobias Isenberg"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Quan Li"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Peng Xu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yeuk Yin Chan"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yun Wang"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Zhipeng Wang"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xiaojuan Ma"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "SemanticTraj: A New Approach to Interacting with Massive Taxi Trajectories"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Shamal Al-Dohuki"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yingyu Wu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Farah Kamw"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jing Yang"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xin Li"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ye Zhao"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xinyue Ye"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wei Chen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Chao Ma"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Fei Wang"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Dongyu Liu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Di Weng"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yuhong Li"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jie Bao"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yu Zheng"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yingcai Wu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visual Analysis of MOOC Forums with iForum"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Siwei Fu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jian Zhao"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Weiwei Cui"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "TopicLens: Efficient Multi-Level Visual Topic Exploration of Large-Scale Document Collections"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Minjeong Kim"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kyeongpil Kang"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Deokgun Park"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jaegul Choo"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Niklas Elmqvist"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bum Chul Kwon"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hannah Kim"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Emily Wall"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jaegul Choo"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Haesun Park"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Alex Endert"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "TextTile: An Interactive Visualization Tool for Seamless Exploratory Analysis of Structured Data and Unstructured Text"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cristian Felix"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Anshul Vikram Pandey"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Enrico Bertini"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Toward Theoretical Techniques for Measuring the Use of Human Effort in Visual Analytic Systems"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "R. Jordan Crouser"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Lyndsey Franklin"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Alex Endert"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kris Cook"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "AnaFe: Visual Analytics of Image-derived Temporal Features Focusing on the Spleen"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ievgeniia Gutenko"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Konstantin Dmitriev"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Arie E. Kaufman"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Matthew A. Barish"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "NameClarifier: A Visual Analytics System for Author Name Disambiguation"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Qiaomu Shen"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tongshuang Wu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Haiyan Yang"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yanhong Wu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Weiwei Cui"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visualizing Dimension Coverage to Support Exploratory Analysis"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ali Sarvghad"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Melanie Tory"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Narges Mahyar"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Behrisch"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Benjamin Bach"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Hund"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Delz"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Laura Von Rüden"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jean-Daniel Fekete"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tobias Schreck"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Characterizing Guidance in Visual Analytics"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Davide Ceneda"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Theresia Gschwandtner"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Thorsten May"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Silvia Miksch"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hans-Jörg Schulz"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Marc Streit"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Christian Tominski"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Glueck"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Alina Gvozdik"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Fanny Chevalier"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Azam Khan"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Brudno"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Daniel Wigdor"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cagatay Turkay"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Erdem Kaya"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Selim Balcisoy"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Helwig Hauser"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Filip Dabek"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jesus J Caban"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Blockwise Human Brain Network Visual Comparison Using NodeTrix Representation"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xinsong Yang"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Lei Shi"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Madelaine Daianu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hanghang Tong"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Qingsong Liu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Paul Thompson"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cong Xie"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wen Zhong"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Klaus Mueller"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Dominik Sacha"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Leishi Zhang"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Sedlmair"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "John A. Lee"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jaakko Peltonen"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Daniel Weiskopf"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Stephen C. North"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Daniel A. Keim"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bowen Yu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Cláudio T. Silva"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jian Zhao"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Glueck"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Simon Breslav"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Fanny Chevalier"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Azam Khan"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Familiarity Vs Trust: A Comparative Study of Domain Scientists Trust in Visual Analytics and Conventional Analysis Methods"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Aritra Dasgupta"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Joon-Yong Lee"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ryan Wilson"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Robert A. Lafrance"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Nick Cramer"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kristin Cook"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Samuel Payne"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "What do Constraint Programming Users Want to See? Exploring the Role of Visualisation in Profiling of Models and Search"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sarah Goodwin"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Christopher Mears"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tim Dwyer"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Maria Garcia de la Banda"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Guido Tack"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mark Wallace"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Panpan Xu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Honghui Mei"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Liu Ren"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wei Chen"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visual Analytics for Mobile Eye Tracking"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kuno Kurzhals"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Marcel Hlawatsch"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Christof Seeger"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Daniel Weiskopf"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Hyunjoo Song"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jeongjin Lee"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tae Jung Kim"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kyoung Ho Lee"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bohyoung Kim"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jinwook Seo"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Zhicheng Liu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yang Wang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mira Dontcheva"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Matthew Hoffman"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Seth Walker"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Alan Wilson"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Donghao Ren"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Saleema Amershi"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Bongshin Lee"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jina Suh"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jason D. Williams"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "An Analysis of Machine- and Human-Analytics in Classification"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Gary K. L. Tam"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Vivek Kothari"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Min Chen"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Junpeng Wang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xiaotong Liu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Han-Wei Shen"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Guang Lin"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Towards Better Analysis of Deep Convolutional Neural Networks"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mengchen Liu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jiaxin Shi"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Zhen Li"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Chongxuan Li"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jun Zhu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Shixia Liu"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Paulo E. Rauber"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Samuel G. Fadel"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Alexandre X. Falcão"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Alexandru C. Telea"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "VisMatchmaker: Cooperation of the User and the Computer in Centralized Matching Adjustment"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Po-Ming Law"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wenchao Wu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yixian Zheng"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Supporting visual exploration for multiple users in large display environments"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sriram Karthik Badam"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Fereshteh Amini"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Niklas Elmqvist"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Pourang Irani"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "DocuCompass: Effective exploration of document landscapes"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Florian Heimerl"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Markus John"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Qi Han"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Steffen Koch"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Thomas Ertl"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "C2A: Crowd consensus analytics for virtual colonoscopy"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ji Hwan Park"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Saad Nadeem"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Seyedkoosha Mirhosseini"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Arie Kaufman"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "The DataSpace for HIV vaccine studies"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "David McColgin"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Paul Hoover"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mark Igra"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Siming Chen"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Shuai Chen"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Zhenhuang Wang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jie Liang"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xiaoru Yuan"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Nan Cao"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yadong Wu"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "How ideas flow across multiple social groups"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xiting Wang"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Shixia Liu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yang Chen"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tai-Quan Peng"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jing Su"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jing Yang"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Baining Guo"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "EventAction: Visual analytics for temporal event sequence recommendation"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Fan Du"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Catherine Plaisant"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Neil Spring"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Ben Shneiderman"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "SocialBrands: Visual analysis of public perceptions of brands on social media"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xiaotong Liu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Anbang Xu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Liang Gou"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Haibin Liu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Rama Akkiraju"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Han-Wei Shen"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jing Xia"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wei Chen"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yumeng Hou"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Wanqi Hu"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Xinxin Huang"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "David S. Ebertk"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "SenseMap: Supporting browser-based online sensemaking through analytic provenance"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Phong H. Nguyen"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kai Xu"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Andy Bardill"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Betul Salman"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kate Herd"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "B.L. William Wong"
+    },
+    {
+      "group": "VAST",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "PorosityAnalyzer: Visual Analysis and Evaluation of Segmentation Pipelines to Determine the Porosity in Fiber-Reinforced Polymers"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Johannes Weissenböck"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Artem Amirkhanov"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Eduard Gröller"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Johann Kastner"
+    },
+    {
+      "group": "VAST",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Christoph Heinzl"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Yuanzhe Chen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Qing Chen"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Mingqian Zhao"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sebastien Boyer"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Kalyan Veeramachaneni"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Huamin Qu"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Shape Grammar Extraction for Efficient Query-by-Sketch Pattern Matching in Long Time Series"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Prithiviraj K. Muthumanickam"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Katerina Vrotsou"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Matthew Cooper"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Jimmy Johansson"
+    },
+    {
+      "group": "SciVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "The semantics of sketch: Flexibility in visual query systems for time series data"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Correll"
+    },
+    {
+      "group": "SciVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Michael Gleicher"
+    },
+    {
+      "group": "InfoVis",
+      "type": 0,
+      "class": "essayNode",
+      "size": 20,
+      "id": "Visual analysis and coding of data-rich user behavior"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Tanja Blascheck"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Fabian Beck"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Sebastian Baltes"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Thomas Ertl"
+    },
+    {
+      "group": "InfoVis",
+      "type": 1,
+      "class": "authorNode",
+      "size": 7,
+      "id": "Daniel Weiskopf"
+    }
+  ]
+}

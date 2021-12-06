@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>drawC</title>
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <meta name="author" content=""/>
+    <link rel="shortcut icon" href="">
+    <!--    <script src="http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>-->
+    <!--    <link href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">-->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.2.2/dist/echarts.js"></script>
+
+</head>
+<style type="text/css">
+
+</style>
+<body>
+
+<!-- 绘制标题样式 -->
+<div id="main" style="width: 800px;height:800px;"></div>
+<script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart = echarts.init(document.getElementById('main'));
+    var data = [{
+        'name': 'AuthorNames',
+        'children': [{'name': 'huamin qu', 'value': 16}, {
+            'name': 'yong wang 0021',
+            'value': 7
+        }, {'name': 'qianwen wang', 'value': 4}, {'name': 'zhutian chen', 'value': 3}, {
+            'name': 'aoyu wu',
+            'value': 3
+        }, {'name': 'yun wang 0012', 'value': 2}, {'name': 'yao ming', 'value': 2}, {
+            'name': 'wei zeng 0004',
+            'value': 2
+        }, {'name': 'furui cheng', 'value': 2}, {'name': 'zhihua jin', 'value': 1}, {
+            'name': 'zhiguang yang',
+            'value': 1
+        }, {'name': 'zhenhua xu', 'value': 1}, {'name': 'zezheng feng', 'value': 1}, {
+            'name': 'yuanzhe chen',
+            'value': 1
+        }, {'name': 'yong xu', 'value': 1}, {'name': 'yiyang tang', 'value': 1}, {
+            'name': 'yingcai wu',
+            'value': 1
+        }, {'name': 'yifang wang 0001', 'value': 1}, {'name': 'yating lin', 'value': 1}, {
+            'name': 'xuanwu yue',
+            'value': 1
+        }, {'name': 'xinhuan shu', 'value': 1}, {'name': 'xingbo wang', 'value': 1}, {
+            'name': 'xiaojuan ma',
+            'value': 1
+        }, {'name': 'william alexander', 'value': 1}, {'name': 'weiwei cui', 'value': 1}, {
+            'name': 'wai tong',
+            'value': 1
+        }, {'name': 'ting-chuen pong', 'value': 1}, {'name': 'tim dwyer', 'value': 1}, {
+            'name': 'tengfei ma',
+            'value': 1
+        }, {'name': 'si qin', 'value': 1}, {'name': 'shuang-hua yang', 'value': 1}, {
+            'name': 'shixia liu',
+            'value': 1
+        }, {'name': 'rong zhang', 'value': 1}, {
+            'name': 'reshika palaniyappan velumani',
+            'value': 1
+        }, {'name': 'renfei huang', 'value': 1}, {'name': 'ren liu', 'value': 1}, {
+            'name': 'quan li',
+            'value': 1
+        }]
+    }, {
+        'name': 'AuthorAffilication',
+        'children': [{
+            'name': 'hong kong university of science and technology',
+            'value': 48
+        }, {'name': 'microsoft research', 'value': 7}, {
+            'name': 'hong kong university of sccience and technology',
+            'value': 5
+        }, {
+            'name': 'hong kong university of science and technology (hkust)',
+            'value': 4
+        }, {'name': 'university of oxford, uk', 'value': 3}, {
+            'name': 'state key lab of cad&cgzhejiang university',
+            'value': 3
+        }, {
+            'name': "noah's ark labhuawei technologies co. ltd.",
+            'value': 3
+        }, {
+            'name': 'shenzhen institutes of advanced technologychinese academy of sciences',
+            'value': 2
+        }, {
+            'name': "moeklinns labxi 'an jiaotong university",
+            'value': 2
+        }, {
+            'name': 'hong kong university of science and technology, china',
+            'value': 2
+        }, {'name': 'bosch research north america', 'value': 2}, {
+            'name': 'webank, ai group, china',
+            'value': 1
+        }, {'name': 'university of groningen', 'value': 1}, {
+            'name': 'tsinghua university',
+            'value': 1
+        }]
+    }, {
+        'name': 'AuthorKeywords',
+        'children': [{'name': 'visual analytics', 'value': 6}, {
+            'name': 'time series data',
+            'value': 2
+        }, {'name': 'multidimensional data', 'value': 2}, {
+            'name': 'machine learning',
+            'value': 2
+        }, {'name': 'deep learning', 'value': 2}, {'name': 'anomaly detection', 'value': 2}, {
+            'name': 'visual analysis',
+            'value': 1
+        }, {'name': 'video analysis', 'value': 1}, {'name': 'urban data', 'value': 1}, {
+            'name': 'timeline infographics',
+            'value': 1
+        }, {'name': 'tax network', 'value': 1}, {'name': 'tax evasion detection', 'value': 1}, {
+            'name': 'tabular data',
+            'value': 1
+        }, {'name': 'stock portfolio', 'value': 1}, {'name': 'smart factory', 'value': 1}, {
+            'name': 'sequence data',
+            'value': 1
+        }, {'name': 'responsive visualization', 'value': 1}, {
+            'name': 'reinforcement learning',
+            'value': 1
+        }, {'name': 'recurrent neural networks (rnns)', 'value': 1}, {
+            'name': 'prototype learning',
+            'value': 1
+        }, {'name': 'production planning', 'value': 1}, {
+            'name': 'procrustes analysis',
+            'value': 1
+        }, {'name': 'point clouds', 'value': 1}, {
+            'name': 'performance visualization',
+            'value': 1
+        }, {'name': 'neural network', 'value': 1}, {
+            'name': 'network topology',
+            'value': 1
+        }, {'name': 'multi-task model', 'value': 1}, {
+            'name': 'model-developmental visualization',
+            'value': 1
+        }, {'name': 'mobile visualization', 'value': 1}, {
+            'name': 'machine learning for visualizations',
+            'value': 1
+        }, {'name': 'lstm', 'value': 1}, {'name': 'learning behavior analysis', 'value': 1}, {
+            'name': 'lasso selection',
+            'value': 1
+        }]
+    }];
+    // 指定图表的配置项和数据
+    var option = {
+        visualMap: {
+            type: 'continuous',
+            min: 0,
+            max: 100,
+            show:false,
+            inRange: {
+                // color: ['#2F93C8', '#AEC48F', '#FFDB5C', '#F98862']
+                color: ['#BCDEBD', '#AEC48F', '#FFDB5C', '#86BAD2', '#2F93C8']
+                // color: ['#BCDEBD', '#AEC48F','#86BAD2','#2F93C8']
+            }
+        },
+        series: {
+            type: 'sunburst',
+            data: data,
+            radius: [0, "100%"],
+            label: {
+                rotate: 'radial',
+                align:'left',
+                // rotate: 'tangential',
+                // show: false
+                fontSize: 10,
+                // fontSize: 18,
+                position: 'top ',
+                distance:2,
+                color: "#ffffff"
+            }
+        }
+    };
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart.setOption(option);
+
+</script>
+</body>
+
+</html>

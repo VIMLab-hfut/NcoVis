@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+      <!-- 引入样式 -->
+    <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+    <!-- 引入组件库 -->
+    <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+</head>
+<body>
+  <div id="app">
+
+    <div>
+      <i class="el-icon-user-solid" style="color: #2F93C8;width: 100px"></i>
+    </div>
+<br>
+    <div>
+      <el-button @click="visible = true" style="border-color: #86BAD2;width: 80px">Search</el-button>
+            <el-button @click="visible = true" style="border-color: #86BAD2;width: 80px">Clear</el-button>
+    </div>
+    <br>
+    <div>
+      <el-switch
+              v-model="visible"
+              active-color="#2F93C8">
+      </el-switch>
+      <el-switch
+              v-model="visible"
+              active-color="#2F93C8">
+      </el-switch>
+      <el-switch
+              v-model="visible"
+              active-color="#2F93C8">
+      </el-switch>
+    </div>
+    <br>
+    <div>
+      <el-switch
+              v-model="value"
+              active-color="#2F93C8">
+      </el-switch>
+      <el-switch
+              v-model="value"
+              active-color="#2F93C8">
+      </el-switch>
+      <el-switch
+              v-model="value"
+              active-color="#2F93C8">
+      </el-switch>
+    </div>
+<br>
+
+  <el-button type="info" round style="background-color: #86BAD2;border-color:#86BAD2;width: 100px">
+    <i class="el-icon-right"></i>
+    Show
+  </el-button>
+    <br>
+        <br>
+
+<el-button type="info" round style="width: 100px">
+  <i class="el-icon-back"></i>
+  Hide
+</el-button>
+    <br>
+        <br>
+    <el-button round style="">Start 2019</el-button>
+    <br>
+        <br>
+    <el-button round style="">End 2020 </el-button>
+
+    <div class="block" style="width: 400px">
+    <el-slider
+      v-model="value2"
+      range
+      :max="10">
+    </el-slider>
+  </div>
+<p style="font-family: Gill Sans">
+  Display Label
+</p>
+    <p style="font-family: Gill Sans">
+  Search Node
+</p>
+  </div>
+</body>
+  <!-- import Vue before Element -->
+  <script src="https://unpkg.com/vue/dist/vue.js"></script>
+  <!-- import JavaScript -->
+  <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+  <script>
+    new Vue({
+      el: '#app',
+      data: function() {
+        return {
+          visible: false ,
+          value: true,
+          value2:[9,10]
+        }
+      }
+    })
+  </script>
+</html>
