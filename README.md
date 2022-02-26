@@ -4,14 +4,11 @@ This warehouse mainly stores and papers "NcoVis:  A Visual Analysis Framework fo
 ## Folder Description
 
 ### frame
-Framework implementations
+Framework implementations.
 
 ### database/IEEE
 - Raw data set
 - Experimental data set
 
 ### component
-Related components of code design
-
-### attachment
-The pictures used in the paper
+Related components of code design and the pictures used in the paper.
